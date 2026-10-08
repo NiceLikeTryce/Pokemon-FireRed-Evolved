@@ -31,7 +31,7 @@ Both patches produce the same game.
 - **A changing world:** real-time day/night & weather.
 - **TREE SHAKER:** mimics Gen2 Headbutt Tree mechanic.
 - **Early gifts:** bedroom Lucky Egg, Bill's Eevee, Route5 Day Care's Togepi Egg, and gym bonus rewards.
-- **Fighting Dojo:** your original Hitmon choice, plus Tyrogue holding a Black Belt.
+- **Gym Rewards:** Evolution Stones, Powerful Held items, and baby Pokemon. 
 - **Easier evolutions:** Bill's trade-backs, Eevee Sun/Moon Stones and missed-move learning.
 - **Better training:** IV/EV viewer, longer Repels, reuse Repels, faster eggs with Magma Armor/Flame Body.
 - **Legendaries:** roaming beast visible in grass; legendaries return until caught; roaming bugs fixed.
