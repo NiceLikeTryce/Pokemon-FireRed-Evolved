@@ -34,7 +34,7 @@ Both patches produce the same game.
 - **Better training:** IV/EV viewer, longer Repels, reuse Repels, faster eggs with Magma Armor/Flame Body.
 - **Legendaries:** roaming beast visible in grass; legendaries return until caught; roaming bugs fixed.
 - **Acro Bike:** Mom's postgame gift; hop ledges both ways.
-- **Shiny hunting:** Ruby/Sapphire-style RNG.
+- **Shiny hunting:** Ruby/Sapphire-style RNG. (PokeFinder Eggs feature WORKS. Wild Encounters feature WILL NOT.)
 
 **Big rewards**
 
