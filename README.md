@@ -23,7 +23,6 @@ Both patches produce the same game.
 
 
 - **All 251 Pokémon:** including Gen2 & LeafGreen exclusives.
-- **Pokédex #001–#251:** Gen2 entries, capture pages and Dex numbers available before National Dex.
 - **Walking partners:** all 251 Pokemon follow you, with shiny colors and contextual reactions. (Credit: RadicalRed)
 - **Battle Frontier:** including Link battles and battle recordings.
 - **More encounters:** Altering Cave and Safari Zone supports Gen2 PKMN.
