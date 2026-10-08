@@ -13,8 +13,8 @@ You need your own **clean US/English FireRed v1.0 or v1.1 ROM**.
 Your ROM stays on your device. Both patches produce the same game.
 
 **Offline:** download the BPS matching your clean ROM:
-- [FireRed v1.0 BPS](https://github.com/NiceLikeTryce/firered-refined-bps/releases/latest/download/FireRed_Refined_v0.85_from_BPRE_USA.bps)
-- [FireRed v1.1 BPS](https://github.com/NiceLikeTryce/firered-refined-bps/releases/latest/download/FireRed_Refined_v0.85_from_BPRE_USA_Rev1.bps)
+- [FireRed v1.0 BPS](https://github.com/NiceLikeTryce/firered-refined-bps/releases/latest/download/FireRed_Refined_v0.86_from_BPRE_USA.bps)
+- [FireRed v1.1 BPS](https://github.com/NiceLikeTryce/firered-refined-bps/releases/latest/download/FireRed_Refined_v0.86_from_BPRE_USA_Rev1.bps)
 
 Apply it with [Floating IPS](https://github.com/Sir-Walrus/Flips/releases).
 
