@@ -30,9 +30,9 @@ Both patches produce the same game.
 - **Bookcase hints:** reveal up to three new Gen2 PKMN locations by searching bookcases.
 - **A changing world:** real-time day/night & weather.
 - **TREE SHAKER:** mimics Gen2 Headbutt Tree mechanic.
-- **Early gifts:** bedroom Lucky Egg, Bill's Eevee, Route5 Day Care's Togepi Egg, and gym bonus rewards.
+- **Early gifts:** bedroom Lucky Egg, Tree Shaker, Bill's Eevee, and gym bonus rewards.
 - **Gym Rewards:** Evolution Stones, Powerful Held items, and baby Pokemon. 
-- **Easier evolutions:** Bill's trade-backs, Eevee Sun/Moon Stones and missed-move learning.
+- **Easier Evolutions:** Bill's trade-backs, Eevee Sun/Moon Stones and missed-move learning.
 - **Better training:** IV/EV viewer, longer Repels, reuse Repels, faster eggs with Magma Armor/Flame Body.
 - **Legendaries:** roaming beast visible in grass; legendaries return until caught; roaming bugs fixed.
 - **Acro Bike:** Mom's postgame gift; hop ledges both ways.
