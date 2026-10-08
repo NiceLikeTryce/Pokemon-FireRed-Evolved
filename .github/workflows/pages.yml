@@ -1,0 +1,51 @@
+name: Free BPS web patcher
+on:
+  push:
+    branches: [main]
+    paths: ['site/**', '.github/workflows/pages.yml']
+  workflow_dispatch:
+permissions:
+  contents: read
+  pages: write
+  id-token: write
+concurrency:
+  group: pages
+  cancel-in-progress: false
+jobs:
+  deploy:
+    runs-on: ubuntu-latest
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.13'
+      - uses: actions/configure-pages@v5
+      - name: Stage website and verify both BPS downloads
+        shell: python
+        run: |
+          import hashlib, json, shutil, urllib.request
+          from pathlib import Path
+          source = Path('site')
+          assert not any(p.suffix.lower() in {'.gba', '.sav', '.srm', '.bat'} for p in source.rglob('*') if p.is_file())
+          shutil.copytree(source, '_site')
+          output = Path('_site/assets')
+          output.mkdir()
+          manifest = json.loads((source / 'release.json').read_text())
+          assert len(manifest['sources']) == 2
+          for item in manifest['sources']:
+              name = item['patch']
+              assert Path(name).name == name and name.endswith('.bps')
+              request = urllib.request.Request(manifest['asset_root'] + '/' + name, headers={'User-Agent': 'FireRed-Refined-Pages'})
+              data = urllib.request.urlopen(request, timeout=60).read()
+              assert data[:4] == b'BPS1' and hashlib.sha256(data).hexdigest() == item['patch_sha256']
+              (output / name).write_bytes(data)
+          Path('_site/.nojekyll').touch()
+      - uses: actions/upload-pages-artifact@v3
+        with:
+          path: _site
+      - name: Publish free patcher
+        id: deployment
+        uses: actions/deploy-pages@v4

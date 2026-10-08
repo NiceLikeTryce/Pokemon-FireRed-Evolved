@@ -1,0 +1,22 @@
+{
+  "version": "v0.85",
+  "target_size": 16777216,
+  "target_sha1": "8c8edbc78f32058bf94e613dc34b19e5eeaee5c0",
+  "target_sha256": "f992100d86dbdbf5bd00ba2f65d1bc7c73326fd0b07c58674c13973bf6bc9f1b",
+  "sources": [
+    {
+      "revision": "v1.0",
+      "base_sha1": "41cb23d8dccc8ebd7c649cd8fbb58eeace6e2fdc",
+      "patch": "FireRed_Refined_v0.85_from_BPRE_USA.bps",
+      "patch_sha256": "4c82362af7da2177c0b52a29977053241e2b87e580a888af7b01849241c4928b"
+    },
+    {
+      "revision": "v1.1",
+      "base_sha1": "dd5945db9b930750cb39d00c84da8571feebf417",
+      "patch": "FireRed_Refined_v0.85_from_BPRE_USA_Rev1.bps",
+      "patch_sha256": "a4a976ad0a8d6d8164dc42b4de045011186889fc8f8c46c36b049ff0850eee79"
+    }
+  ],
+  "asset_root": "https://github.com/NiceLikeTryce/firered-refined-bps/releases/download/game-v0.85",
+  "package_url": "https://github.com/NiceLikeTryce/firered-refined-bps/releases/latest"
+}
