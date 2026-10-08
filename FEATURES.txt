@@ -23,6 +23,13 @@
 - Gen2 habitat maps work before National Dex.
 - Separate encounter and acquisition guides cover all 251 Pokemon.
 
+## Walking Pokemon
+- All 251 Pokemon have walking followers and shiny palettes.
+- Your first healthy, non-Egg party member follows on foot.
+- Talk to your partner for cries, emotions and contextual reactions.
+- Friendship, health, weather, location and day/night affect reactions.
+- Viridian Pokemon Center offers a saved follower toggle.
+
 ## Evolution and training
 - All Gen2 evolutions work before National Dex.
 - Bill offers animated trade-back evolutions at his Cerulean-area house.

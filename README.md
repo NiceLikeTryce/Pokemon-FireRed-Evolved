@@ -21,6 +21,7 @@ Both patches produce the same game.
 
 ## What's in FireRed Refined?
 
+- **Walking partners:** all 251 Pokemon follow you, with shiny colors and contextual reactions.
 - **All 251 Pokémon:** including Gen2 & LeafGreen exclusives.
 - **Pokédex #001–#251:** Gen2 entries, capture pages and Dex numbers available before National Dex.
 - **Battle Frontier:** including Link battles and battle recordings.
