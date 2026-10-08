@@ -138,6 +138,6 @@
 - Free web links preload the latest matching patch.
 - Input, patch and output checks reject incorrect or damaged files.
 - Offline patching works with Floating IPS.
-- Night/Light mode remembers the chosen page theme.
+- Dark mode is the default; Night/Light mode remembers the chosen theme.
 - Version notes and changelogs are consolidated per patch.
 - This condensed feature list accompanies both repositories.

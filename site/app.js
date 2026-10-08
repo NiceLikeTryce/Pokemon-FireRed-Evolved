@@ -11,7 +11,7 @@
   };
   let savedTheme;
   try { savedTheme = localStorage.getItem(themeKey); } catch (_) { /* Storage can be unavailable. */ }
-  setTheme(['dark', 'light'].includes(savedTheme) ? savedTheme : (matchMedia('(prefers-color-scheme: dark)').matches ? 'dark' : 'light'));
+  setTheme(['dark', 'light'].includes(savedTheme) ? savedTheme : 'dark');
   $('theme').addEventListener('click', () => {
     const theme = document.documentElement.dataset.theme === 'dark' ? 'light' : 'dark';
     setTheme(theme);
