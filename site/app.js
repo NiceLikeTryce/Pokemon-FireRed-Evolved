@@ -19,7 +19,7 @@
       if (!source || !/^[A-Za-z0-9_.-]+\.bps$/.test(source.patch)) throw new Error('Invalid patch selection.');
       $(`base${base === '1.0' ? '10' : '11'}`).setAttribute('aria-current', 'page');
       $('selected').textContent = `For FireRed v${base}`;
-      status('Attaching your BPS patchâ€¦');
+      status('Attaching your BPS patch\u2026');
       const download = await fetch(`assets/${source.patch}`);
       if (!download.ok) throw new Error('Patch download failed. Please use the BPS downloads below.');
       const bytes = await download.arrayBuffer();
@@ -36,7 +36,7 @@
     const file = $('rom').files[0];
     if (!file || !source) return;
     try {
-      status('Checking your ROMâ€¦');
+      status('Checking your ROM\u2026');
       if (file.size !== 16777216) throw new Error(`Use your original clean US/English FireRed v${base} ROM.`);
       const bytes = await file.arrayBuffer();
       const sha1 = await digest('SHA-1', bytes);
@@ -52,7 +52,7 @@
   });
   $('apply').addEventListener('click', async () => {
     if (!original || !patch || busy) return;
-    busy = true; refresh(); status('Patching your gameâ€¦');
+    busy = true; refresh(); status('Patching your game\u2026');
     try {
       await new Promise(resolve => setTimeout(resolve, 0));
       const result = patch.apply(original, true);
