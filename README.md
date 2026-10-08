@@ -28,7 +28,8 @@ Both patches produce the same game.
 - **Bookcase hints:** reveal up to three new Gen2 PKMN locations by searching bookcases.
 - **A changing world:** real-time day/night & weather.
 - **TREE SHAKER:** mimics Gen2 Headbutt Tree mechanic.
-- **Early gifts:** bedroom Lucky Egg, Bill's Eevee, Route5 Day Care's Togepi Egg, and gym bonus rewards with badges/TMs.
+- **Early gifts:** bedroom Lucky Egg, Bill's Eevee, Route5 Day Care's Togepi Egg,
+  and gym bonus rewards with badges/TMs.
 - **Fighting Dojo:** your original Hitmon choice, plus Tyrogue holding a Black Belt.
 - **Easier evolutions:** Bill's trade-backs, Eevee Sun/Moon Stones and missed-move learning.
 - **Better training:** IV/EV viewer, longer Repels, reuse Repels, faster eggs with Magma Armor/Flame Body.
@@ -38,7 +39,8 @@ Both patches produce the same game.
 
 **Big rewards**
 
-- **Normal Elite Four:** Battle Frontier, Acro Bike, legendary beasts, Sudowoodu, 2nd fossil/Dojo PKMN, Leftovers for JAIME's TOASTED TEA quest.
+- **Normal Elite Four:** Battle Frontier, Acro Bike, legendary beasts, Sudowoodu,
+  2nd fossil/Dojo PKMN, Leftovers for JAIME's TOASTED TEA quest.
 - **Hard Elite Four:** Oak's Challenge.
 - **Beat Oak's Challenge:** MYSTIC TICKET for Navel Rock's Ho-Oh/Lugia.
 - **Catch #1-150:** Mew under the truck.
