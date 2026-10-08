@@ -1,0 +1,140 @@
+# Pokemon FireRed Refined
+
+## Pokemon and Pokedex
+- All 251 Gen1 and Gen2 Pokemon are obtainable.
+- FireRed and LeafGreen wild rosters are combined.
+- Gen1 starters have wild encounters after Normal Champion.
+- Rare trade-only Kanto species have wild habitats.
+- Gen2 wild Pokemon are available before Champion.
+- G/S/C Kanto species appear in equivalent habitats.
+- Gen2 placement respects original encounter levels; Skarmory appears at Lv27.
+- Gen2 Safari imports use Emerald levels.
+- Altering Cave supports Nintendo's eight Gen2 species.
+- Original FireRed Sevii Gen2 encounters are restored.
+- Mixed wild pools preserve a 50/50 generation split.
+- Generation pools with 5+ species halve rates of 24% or higher.
+- Rare rates have a 5% floor within each generation.
+- Pokedex entries, sorting, searches and counts stop at #251.
+- Gen2 entries, capture pages and Summary/Hall of Fame numbers appear early.
+- Pokedex completion checks count only caught #1-#251.
+- Bookcases reveal up to three new Gen2 seen entries once each.
+- Bookcase hints exclude Mew and Celebi.
+- Gen2 habitat maps work before National Dex.
+- Separate encounter and acquisition guides cover all 251 Pokemon.
+
+## Evolution and training
+- All Gen2 evolutions work before National Dex.
+- Bill offers animated trade-back evolutions at his Cerulean-area house.
+- Level37 trade-evolution alternatives remain available.
+- Held-item trade evolutions consume their required item.
+- Sun Stone evolves Eevee into Espeon; Moon Stone produces Umbreon.
+- Friendship Espeon uses 4:00 AM-5:59 PM; Umbreon uses 6:00 PM-3:59 AM.
+- Stone and Gen2 evolutions offer missed level-up moves.
+- SELECT on Summary Skills cycles Stats, IVs and EVs.
+- Repels last longer and offer automatic reuse prompts.
+- Magma Armor and Flame Body speed up egg hatching.
+- Move tutors can teach repeatedly; normal eligibility and costs remain.
+- Celadon sells 32 TMs, including the 26 additions at custom prices.
+- Celadon also sells Sun Stones and Moon Stones.
+- Mt. Moon and Pokemon Mansion have visible Sun Stone pickups.
+- Incoming trades reject Gen3 species and introduced items.
+
+## World and exploration
+- Real-time day/night affects lighting, encounters, weather and daily events.
+- Saved DAY/NIGHT options override effective daylight.
+- Selected NPC dialogue changes with the time of day.
+- Outdoor weather includes restored effects and Ember Spa fog.
+- Kanto and Frontier windows light correctly at night.
+- Pyramid lights are limited to its doorways.
+- Menus, interiors and battles retain their normal colors.
+- Dialogue text runs at FAST speed.
+- Initial RNG seeding follows Ruby/Sapphire while RTC features remain.
+- TREE SHAKER brings G/S/C large-tree encounters to Kanto.
+- Tree encounters mix generations without a Champion switch.
+- Night trees give Ghost types a combined 25% share.
+- Misdreavus uses Lv45 in suitable late-game trees.
+- Tree interactions work on every side, including Viridian Forest.
+- Strength retains its original boulder behavior.
+- Acro Bike supports wheelies, bunnyhops and jumping ledges both ways.
+- Red and Green have matching Acro Bike sprites.
+- Boats return the player clear of Vermilion's sailor.
+
+## Gifts and characters
+- The bedroom PC contains a Lucky Egg.
+- Bill gives Eevee on first meeting.
+- Route5 Day Care gives a Togepi Egg on first successful interaction.
+- The final Viridian Forest Bug Catcher rewards TREE SHAKER.
+- Gym bonuses come with the original badges and TMs.
+- Brock gives Sun Stone; Misty gives Water Stone; Surge gives Thunder Stone.
+- Erika gives Leaf Stone; Koga gives Poison Barb; Sabrina gives Moon Stone.
+- Blaine gives Fire Stone; Giovanni gives Everstone.
+- The Dojo gives a Hitmon choice and Tyrogue holding Black Belt.
+- Normal Champion unlocks the second Dojo fighter and unchosen fossil.
+- Cinnabar can revive both fossils through its usual service.
+- Mom congratulates Normal Champion with a working Acro Bike.
+- Celadon's tea lady gives TOASTED TEA after Normal Champion.
+- The tea lady retains her Pallet Town girl reference.
+- JAIME exchanges TOASTED TEA for Leftovers.
+- JAIME has new introductions, TEA/culture dialogue and friendship grooming.
+- Pallet's JAIME house, plants and MOOM's Persian scenes are updated.
+- Full bags or storage leave unclaimed gifts available for retry.
+- One-off gifts and events use their own dialogue without default extras.
+
+## Legends and postgame
+- Mew waits under the truck after catching #1-#150.
+- The truck moves without the removed truck sound.
+- Faraway Island unlocks after catching #1-#250 and Normal Champion.
+- Celebi uses Emerald's Mew hide-and-seek game and Radical Red walking art.
+- Faraway Island has proper tall-grass effects, cutting and music.
+- Legendary encounters remain available until caught.
+- One standard beast roams; the other two replace caught birds after Normal Champion.
+- The roaming beast appears in grass and faces the player.
+- Roamers relocate after fainting or escaping; Roar no longer retires them.
+- Roaming Pokemon receive proper IVs.
+- Snorlax stays until caught.
+- Route Sudowoodo needs Normal Champion, both Snorlax encounters and its own Snorlax caught.
+- Frontier Sudowoodo is independent and stays until caught.
+- Oak's Challenge requires Hard Champion and the existing Mewtwo prerequisite.
+- Oak leaves his lab until the challenge is beaten; JAIME gives a Cerulean hint.
+- Beating Oak's Challenge awards MYSTIC TICKET for Ho-Oh/Lugia at Navel Rock.
+- Oak's ratings, welcome, regional reminders and reward dialogue are cleaned up.
+- The sailor offers one ferry menu and lets ticket holders walk past.
+- Ferry destinations follow the truck requirement, passes and island tickets.
+
+## Battle Frontier
+- Normal Champion unlocks the Battle Frontier.
+- Tower, Factory, Dome, Arena, Palace, Pike and Pyramid are implemented.
+- Original rules, lobbies, NPCs, menus, records and facility music are restored.
+- Singles, doubles, Level50 and Open Level modes use supported Gen1/2 teams.
+- Factory supports rental selection, swaps, streaks and Noland.
+- Tower supports NPC partners, apprentices and Anabel.
+- Dome supports brackets, opponent details, championships and Tucker.
+- Arena judging, Palace autonomy and Pike room events are retained.
+- Pyramid keeps its floors, exploration and private challenge bag.
+- Frontier Brains, BP rewards and Silver/Gold symbols are available.
+- Tower link/wireless multi battles and battle recordings are supported.
+- Frontier Pass shows records and supports recording playback.
+- Original parties return safely after challenges and playback.
+- Invalid or oversized recordings are rejected without losing the previous recording.
+
+## Fixes and polish
+- Gen2 capture black screens and Factory Summary freezes are fixed.
+- Factory yes/no menus, warps and participant positions are corrected.
+- Frontier doors, PCs and PASS screen transitions are repaired.
+- Clipped Frontier welcomes, trade dialogue and TM prices are fixed.
+- Viridian Cut/bush sprite corruption is fixed.
+- Window alignment, unwanted flower glow and building light shapes are corrected.
+- Power Plant doors and Silph roof layering are repaired.
+- Faraway music overlap and tall-grass rendering are fixed.
+- Beast sheets and tall-grass frames rebuild correctly from source art.
+- Existing saves, Pokemon and completed rewards are preserved.
+
+## Patching and documentation
+- Clean US/English FireRed 1.0 and 1.1 have matching BPS patches.
+- Both patches produce the same verified game.
+- Free web links preload the latest matching patch.
+- Input, patch and output checks reject incorrect or damaged files.
+- Offline patching works with Floating IPS.
+- Night/Light mode remembers the chosen page theme.
+- Version notes and changelogs are consolidated per patch.
+- This condensed feature list accompanies both repositories.
