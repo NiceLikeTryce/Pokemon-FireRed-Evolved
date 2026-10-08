@@ -25,7 +25,7 @@ Both patches produce the same game.
 - **Walking partners:** all 251 Pokemon follow you, with shiny colors and contextual reactions.
 - **Secret Bases:** make and decorate hideouts, shop for dolls and furniture, visit friends and battle their teams.
 - **All 251 Pokémon:** including Gen2 & LeafGreen exclusives.
-- **Walking partners:** all 251 Pokemon follow you, with shiny colors and contextual reactions. (Credit: RadicalRed)
+- **Walking partners:** all 251 Pokemon follow you, with shiny colors and contextual reactions. (Partial Credit: Exclsior)
 - **Battle Frontier:** including Link battles and battle recordings.
 - **More encounters:** Altering Cave and Safari Zone supports Gen2 PKMN.
 - **Bookcase hints:** reveal Gen2 PKMN locations by searching bookcases.
