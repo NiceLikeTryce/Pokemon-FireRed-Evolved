@@ -40,6 +40,8 @@
 - Mt. Moon and Pokemon Mansion have visible Sun Stone pickups.
 - Incoming trades reject Gen3 species and introduced items.
 
+- Gift nickname prompts identify the correct Pokemon.
+
 ## World and exploration
 - Real-time day/night affects lighting, encounters, weather and daily events.
 - Saved DAY/NIGHT options override effective daylight.
@@ -70,7 +72,7 @@
 - Gym bonuses come with the original badges and TMs.
 - Brock gives Sun Stone; Misty gives Water Stone; Surge gives Thunder Stone.
 - Erika gives Leaf Stone; Koga gives Poison Barb; Sabrina gives Moon Stone.
-- Blaine gives Fire Stone; Giovanni gives Everstone.
+- Blaine gives Fire Stone; Giovanni gives Everstone and Choice Band.
 - The Dojo gives a Hitmon choice and Tyrogue holding Black Belt.
 - Normal Champion unlocks the second Dojo fighter and unchosen fossil.
 - Cinnabar can revive both fossils through its usual service.
