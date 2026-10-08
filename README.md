@@ -27,7 +27,7 @@ Both patches produce the same game.
 - **Walking partners:** all 251 Pokemon follow you, with shiny colors and contextual reactions. (Credit: RadicalRed)
 - **Battle Frontier:** including Link battles and battle recordings.
 - **More encounters:** Altering Cave and Safari Zone supports Gen2 PKMN.
-- **Bookcase hints:** reveal up to three new Gen2 PKMN locations by searching bookcases.
+- **Bookcase hints:** reveal Gen2 PKMN locations by searching bookcases.
 - **A changing world:** real-time day/night & weather.
 - **TREE SHAKER:** mimics Gen2 Headbutt Tree mechanic.
 - **Early gifts:** bedroom Lucky Egg, Tree Shaker, Bill's Eevee, and gym bonus rewards.
