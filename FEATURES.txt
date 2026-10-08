@@ -17,6 +17,7 @@
 - Pokedex entries, sorting, searches and counts stop at #251.
 - Gen2 entries, capture pages and Summary/Hall of Fame numbers appear early.
 - Pokedex completion checks count only caught #1-#251.
+- Oak's completion ratings, diploma and national card checks require all 251.
 - Bookcases reveal up to three new Gen2 seen entries once each.
 - Bookcase hints exclude Mew and Celebi.
 - Gen2 habitat maps work before National Dex.
@@ -52,6 +53,8 @@
 - TREE SHAKER brings G/S/C large-tree encounters to Kanto.
 - Tree encounters mix generations without a Champion switch.
 - Night trees give Ghost types a combined 25% share.
+- Tree sleepers follow Gen2 species/time rules with seven initial sleep turns.
+- Gastly has a 5% nighttime share in every grassy wild-encounter area.
 - Misdreavus uses Lv45 in suitable late-game trees.
 - Tree interactions work on every side, including Viridian Forest.
 - Strength retains its original boulder behavior.
