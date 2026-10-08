@@ -13,11 +13,9 @@ You need your own **clean US/English FireRed v1.0 or v1.1 ROM**.
 Your ROM stays on your device. 
 Both patches produce the same game. 
 
-**Offline:** download the BPS matching your clean ROM:
+**Offline:** Apply .BPS with [Floating IPS](https://github.com/Sir-Walrus/Flips/releases).
 
-Apply it with [Floating IPS](https://github.com/Sir-Walrus/Flips/releases).
-
-**Future Updates:** download the newest BPS and apply it to your original clean ROM.
+**Future Updates:** simply download the newest BPS.
 
 **Saves:** keep a backup. Give your save and new game the same name, ending in `.sav` and `.gba`.
 
