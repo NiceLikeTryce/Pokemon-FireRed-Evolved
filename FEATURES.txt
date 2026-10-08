@@ -151,3 +151,21 @@
 - Dark mode is the default; Night/Light mode remembers the chosen theme.
 - Version notes and changelogs are consolidated per patch.
 - This condensed feature list accompanies both repositories.
+
+## Secret Bases
+- Secret Bases have 72 entrances and 24 interior layouts.
+- SECRET POWER opens marked caves, trees and shrubs.
+- TM43 is sold at Celadon Department Store 2F.
+- Celadon Department Store 4F sells all 120 decorations.
+- A Celadon collector swaps stored decorations.
+- Decorate, put away, discard, pack up and move bases.
+- Base PCs protect ten registered friend hideouts.
+- Bedroom PCs support dolls and cushions.
+- Balloons, mats, slides, tents and ornaments have interactive effects.
+- Cable and wireless groups mix base records and teams.
+- Viridian Pokemon Center 2F offers record mixing.
+- Friend teams become battleable after Normal Champion.
+- Friend battles reset once per real RTC date.
+- Base visits and decorating produce local TV news.
+- Friendly battles contribute to the Trainer Fan Club.
+- Earlier Frontier decoration rewards remain usable.

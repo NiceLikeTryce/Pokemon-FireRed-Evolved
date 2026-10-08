@@ -1,22 +1,22 @@
 {
-  "version": "v0.92",
+  "version": "v0.93",
   "target_size": 16777216,
-  "target_sha1": "3caa0e5f09612ec04f5d640d0737d91a88d8a16a",
-  "target_sha256": "3cde150695b47f3895063aef2c3ebb940a0eae9c0f37aa1ffe0436a8563fb9b7",
+  "target_sha1": "2bf4469c6ecf9b5354c3da5f80df27619cb1082a",
+  "target_sha256": "82e1a0cfab1f575929353ae3eaf486edaebac0ba553f72e5c93502f154f6013a",
   "sources": [
     {
       "revision": "v1.0",
       "base_sha1": "41cb23d8dccc8ebd7c649cd8fbb58eeace6e2fdc",
-      "patch": "FireRed_Refined_v0.92_from_BPRE_USA.bps",
-      "patch_sha256": "6151bad1f6ae091f6830ded8469166404caef46e5541e2636be0628456384894"
+      "patch": "FireRed_Refined_v0.93_from_BPRE_USA.bps",
+      "patch_sha256": "933e92a5298c91ae6052421ea41e78cd944e57e4988d84a27d0fbab9c4a217ef"
     },
     {
       "revision": "v1.1",
       "base_sha1": "dd5945db9b930750cb39d00c84da8571feebf417",
-      "patch": "FireRed_Refined_v0.92_from_BPRE_USA_Rev1.bps",
-      "patch_sha256": "1fd9be287caf3d57b7ab740fdfaf4ef5a1788ff1c304f78d83a40c102339fede"
+      "patch": "FireRed_Refined_v0.93_from_BPRE_USA_Rev1.bps",
+      "patch_sha256": "e749d70eeb5fa626b19912d104d236cc9b3e473e85ba83d52080806c770a58d5"
     }
   ],
-  "asset_root": "https://github.com/NiceLikeTryce/Pokemon-FireRed-Refined/releases/download/game-v0.92",
+  "asset_root": "https://github.com/NiceLikeTryce/Pokemon-FireRed-Refined/releases/download/game-v0.93",
   "package_url": "https://github.com/NiceLikeTryce/Pokemon-FireRed-Refined/releases/latest"
 }

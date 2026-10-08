@@ -22,6 +22,8 @@ Both patches produce the same game.
 ## What's in FireRed Refined?
 
 
+- **Walking partners:** all 251 Pokemon follow you, with shiny colors and contextual reactions.
+- **Secret Bases:** make and decorate hideouts, shop for dolls and furniture, visit friends and battle their teams.
 - **All 251 Pokémon:** including Gen2 & LeafGreen exclusives.
 - **Walking partners:** all 251 Pokemon follow you, with shiny colors and contextual reactions. (Credit: RadicalRed)
 - **Battle Frontier:** including Link battles and battle recordings.
