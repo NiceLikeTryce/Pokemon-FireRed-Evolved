@@ -1,6 +1,22 @@
 'use strict';
 (() => {
   const $ = id => document.getElementById(id);
+  const themeKey = 'firered-refined-theme';
+  const setTheme = theme => {
+    const night = theme === 'dark';
+    document.documentElement.dataset.theme = night ? 'dark' : 'light';
+    $('theme').textContent = night ? 'Light mode' : 'Night mode';
+    $('theme').setAttribute('aria-label', night ? 'Switch to light mode' : 'Switch to night mode');
+    $('theme').setAttribute('aria-pressed', String(night));
+  };
+  let savedTheme;
+  try { savedTheme = localStorage.getItem(themeKey); } catch (_) { /* Storage can be unavailable. */ }
+  setTheme(['dark', 'light'].includes(savedTheme) ? savedTheme : (matchMedia('(prefers-color-scheme: dark)').matches ? 'dark' : 'light'));
+  $('theme').addEventListener('click', () => {
+    const theme = document.documentElement.dataset.theme === 'dark' ? 'light' : 'dark';
+    setTheme(theme);
+    try { localStorage.setItem(themeKey, theme); } catch (_) { /* The toggle still works without storage. */ }
+  });
   const base = new URLSearchParams(location.search).get('base');
   let manifest, source, patch, original, busy = false;
   const status = (text, state = '') => { $('status').textContent = text; $('status').dataset.state = state; };
