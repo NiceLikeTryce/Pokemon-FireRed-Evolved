@@ -11,7 +11,7 @@ You need your own **clean US/English FireRed v1.0 or v1.1 ROM**.
 3. Open the new game in your GBA emulator.
 
 Your ROM stays on your device. 
-Both patches produce the same game.
+Both patches produce the same game. 
 
 **Offline:** download the BPS matching your clean ROM:
 
