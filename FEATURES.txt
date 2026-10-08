@@ -25,6 +25,7 @@
 
 ## Walking Pokemon
 - All 251 Pokemon have walking followers and shiny palettes.
+- Followers match the nighttime color rules for other characters.
 - Your first healthy, non-Egg party member follows on foot.
 - Talk to your partner for cries, emotions and contextual reactions.
 - Friendship, health, weather, location and day/night affect reactions.
