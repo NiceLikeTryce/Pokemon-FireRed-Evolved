@@ -31,6 +31,7 @@
 - Followers face their travel direction and keep up while running and turning.
 - Followers jump ledges with you, including when you stop after landing.
 - Followers remain visible in pause menus and NPC conversations.
+- Followers hide during NPC crossings and return when the path clears.
 - Partners return with you when the Berry Pouch closes into dialogue.
 - Your first healthy, non-Egg party member follows on foot.
 - Talk to your partner for cries, emotions and contextual reactions.

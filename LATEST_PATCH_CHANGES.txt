@@ -1,1 +1,3 @@
-Followers jump ledges with the player.
+Hide followers during NPC crossings.
+Restore Route1 garden scenery.
+Open and repair Viridian garden.
