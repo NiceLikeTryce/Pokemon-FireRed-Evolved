@@ -148,6 +148,7 @@
 - Both patches produce the same verified game.
 - Free web links preload the latest matching patch.
 - Input, patch and output checks reject incorrect or damaged files.
+- The web patcher supports game release numbers beyond two digits.
 - Offline patching works with Floating IPS.
 - Dark mode is the default; Night/Light mode remembers the chosen theme.
 - Version notes and changelogs are consolidated per patch.
