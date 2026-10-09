@@ -46,6 +46,7 @@
 - Magma Armor and Flame Body speed up egg hatching.
 - Move tutors can teach repeatedly; normal eligibility and costs remain.
 - Celadon Department Store sells all 50 TMs.
+- Celadon 4F stocks all six evolution stones and six non-stone evolution items; each non-stone costs ¥50,000.
 - Celadon also sells Sun Stones and Moon Stones.
 - Mt. Moon and Pokemon Mansion have visible Sun Stone pickups.
 - Incoming trades reject Gen3 species and introduced items.
