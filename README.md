@@ -10,7 +10,7 @@ You need your own **clean US/English FireRed v1.0 or v1.1 ROM**.
 2. Select your original FireRed file, then **Patch and download**.
 3. Open the new game in your GBA emulator.
 
-**Future Updates:** simply [download the newest BPS here](https://github.com/NiceLikeTryce/Pokemon-FireRed-Evolved/releases/)
+**Future Updates:** [download the newest BPS here](https://github.com/NiceLikeTryce/Pokemon-FireRed-Evolved/releases/)
 
 
 ## What's in FireRed Evolved?
