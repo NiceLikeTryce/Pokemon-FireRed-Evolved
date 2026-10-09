@@ -1,2 +1,1 @@
-Fixed berry soil colors and missing soil.
-Moved misplaced plots; restored scenery.
+Fixed saving and Berry Tree reload hangs.

@@ -202,6 +202,7 @@
 - Water each growth stage; Emerald sprites, yields, harvesting and regrowth apply.
 - Each plot saves its growth/care state; older gardens keep their progress.
 - Berry soil uses clear ground and correct colors, including Secret Base routes.
+- Saving and reloading beside Berry Trees works safely.
 - JAIME gives the GOLDEEN CAN with the Town Map and explains watering.
 - Berry Forest ground berries respawn in 750 steps, half the original time.
 - Normal Champion unlocks Mirage Island, Mom's hint and a Vermilion ferry option.
