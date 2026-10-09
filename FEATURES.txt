@@ -81,7 +81,7 @@
 - Gym bonuses come with the original badges and TMs.
 - Brock gives Sun Stone; Misty gives Water Stone; Surge gives Thunder Stone.
 - Erika gives Leaf Stone; Koga gives Everstone; Sabrina gives Moon Stone.
-- Blaine gives Fire Stone; Giovanni's Gym gives Choice Band; other battles stay default.
+- Blaine gives Fire Stone; Giovanni's Gym gives King's Rock; other battles stay default.
 - The Dojo gives a Hitmon choice and Tyrogue holding Black Belt.
 - Normal Champion unlocks the second Dojo fighter and unchosen fossil.
 - Cinnabar can revive both fossils through its usual service.
