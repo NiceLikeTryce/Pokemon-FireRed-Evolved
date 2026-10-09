@@ -1,2 +1,1 @@
-Removed ROM-handling claims from the patching page and its metadata.
-Kept the clean-base selection, automatic BPS matching and download steps.
+Fixed mojibake dashes in both FireRed base-version link labels in the README.
