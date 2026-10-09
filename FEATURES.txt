@@ -159,7 +159,7 @@
 - SECRET POWER opens marked caves, trees and shrubs.
 - Brock gives TM43 Secret Power and explains Secret Bases.
 - TM43 Secret Power costs ¥1,000 at Celadon Department Store 2F.
-- TM39 Rock Tomb is sold at Celadon Department Store 2F.
+- All 50 TMs are sold at Celadon Department Store 2F.
 - Celadon Department Store 4F sells all 120 decorations.
 - A Celadon collector swaps stored decorations.
 - Decorate, put away, discard, pack up and move bases.
