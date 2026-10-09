@@ -1,2 +1,2 @@
-Upgraded five Gym TMs; Brock unchanged.
-Updated dialogue; preserved old gift receipts.
+Fixed berry soil colors and missing soil.
+Moved misplaced plots; restored scenery.
