@@ -16,20 +16,20 @@ You need your own **clean US/English FireRed v1.0 or v1.1 ROM**.
 ## What's in FireRed Evolved?
 
 
-- **Walking partners:** all 251 Pokemon follow you, with shiny colors and contextual reactions.
-- **Secret Bases:** make and decorate hideouts, shop for dolls and furniture, visit friends and battle their teams.
+
 - **All 251 Pokémon:** including Gen2 & LeafGreen exclusives.
+- **Walking partners:** all 251 Pokemon follow you, with shiny colors and contextual reactions.
 - **Battle Frontier:** Link battles, recordings and original Emerald music.
+- **Secret Bases:** make and decorate hideouts, shop for dolls and furniture, visit friends and battle their teams.
 - **Celadon Contests:** five categories, four ranks, ribbons and paintings.
 - **Pokéblocks:** blend berries with NPCs or link partners, then feed Pokemon.
-- **Berry Gardens:** plant, water and harvest berries in Kanto and Mirage Island.
+- **Berry Gardens:** plant, water and harvest berries across Kanto.
 - **Mirage Island:** unlocked after Normal Champion, with Mom's hint and ferry access.
 - **More encounters:** Altering Cave and Safari Zone supports Gen2 PKMN.
 - **Bookcase hints:** reveal Gen2 PKMN locations by searching bookcases.
 - **A changing world:** real-time day/night & weather.
 - **TREE SHAKER:** mimics Gen2 Headbutt Tree mechanic.
 - **Early gifts:** bedroom Lucky Egg, Tree Shaker, Bill's Eevee, and gym bonus rewards.
-- **PC gifts:** full parties send gift Pokemon and eggs to the PC.
 - **Gym Rewards:** Evolution Stones, Powerful Held items, and baby Pokemon. 
 - **Easier Evolutions:** Bill's trade-backs, Eevee Sun/Moon Stones and missed-move learning.
 - **Better training:** IV/EV viewer, longer Repels, reuse Repels, faster eggs with Magma Armor/Flame Body.
