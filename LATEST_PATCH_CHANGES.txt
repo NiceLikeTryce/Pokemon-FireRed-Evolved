@@ -1,1 +1,1 @@
-Fixed saving and Berry Tree reload hangs.
+Removed JAIME label from friendship advice.

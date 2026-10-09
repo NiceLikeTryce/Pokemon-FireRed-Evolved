@@ -96,6 +96,7 @@
 - The tea lady retains her Pallet Town girl reference.
 - JAIME exchanges TOASTED TEA for Leftovers.
 - JAIME has new introductions, TEA/culture dialogue and friendship grooming.
+- JAIME's friendship advice omits the speaker label.
 - Pallet's JAIME house, plants and MOOM's Persian scenes are updated.
 - Full bags or storage leave unclaimed gifts available for retry.
 - One-off gifts and events use their own dialogue without default extras.
