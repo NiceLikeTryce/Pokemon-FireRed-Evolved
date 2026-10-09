@@ -193,13 +193,12 @@
 
 ## Berry Gardens and Mirage Island
 - Port Emerald's 89 Berry Tree plots across 86 Kanto routes and Mirage Island.
-- Empty plots show Emerald's dark soft-loamy soil with ordinary walkable ground.
+- Empty plots show Emerald soft-loamy soil; Mirage Island uses its original soil tile.
 - Plant from the Berry Pouch or use a Berry directly on empty soft-loamy soil.
 - Water each growth stage; Emerald sprites, yields, harvesting and regrowth apply.
 - Each plot saves its growth/care state; older gardens keep their progress.
 - JAIME gives the GOLDEEN CAN with the Town Map and explains watering.
 - Berry Forest ground berries respawn in 750 steps, half the original time.
-- A Celadon gardener offers seeds and planting help.
 - Normal Champion unlocks Mirage Island, Mom's hint and a Vermilion ferry option.
 - Mirage Island keeps Gen2 baby encounters, rare berries and three garden plots.
 - Full parties send gifted Pokemon and eggs to the PC.
