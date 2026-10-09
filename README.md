@@ -27,6 +27,7 @@ You need your own **clean US/English FireRed v1.0 or v1.1 ROM**.
 - **Mirage Island:** unlocked after Normal Champion, with Mom's hint and ferry access.
 - **More encounters:** Altering Cave and Safari Zone supports Gen2 PKMN.
 - **Bookcase hints:** reveal Gen2 PKMN locations by searching bookcases.
+- **Pokédex Habitat Guide:** view acquisition locations, odds, levels and unlock conditions in-game.
 - **A changing world:** real-time day/night & weather.
 - **TREE SHAKER:** mimics Gen2 Headbutt Tree mechanic.
 - **Early gifts:** bedroom Lucky Egg, Tree Shaker, Bill's Eevee, and gym bonus rewards.

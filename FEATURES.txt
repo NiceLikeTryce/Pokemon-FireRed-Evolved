@@ -23,6 +23,7 @@
 - Bookcase hints exclude Mew and Celebi.
 - Gen2 habitat maps work before National Dex.
 - Separate encounter and acquisition guides cover all 251 Pokemon.
+- Press SELECT on a Pokemon's area map to open its source-based Habitat Guide.
 
 ## Walking Pokemon
 - All 251 Pokemon have walking followers and shiny palettes.
