@@ -81,7 +81,10 @@
 - Bill gives Eevee on first meeting.
 - Route5 Day Care gives a Togepi Egg on first successful interaction.
 - The final Viridian Forest Bug Catcher rewards TREE SHAKER.
-- Gym bonuses come with the original badges and TMs.
+- Gym bonuses accompany badges and TM rewards.
+- Gym TMs use the highest base power of their type; Brock keeps Secret Power.
+- Misty gives Water Pulse; Surge gives Thunder; Erika gives SolarBeam.
+- Koga gives Sludge Bomb; Sabrina gives Psychic; Blaine gives Overheat; Giovanni gives Earthquake.
 - Brock gives Sun Stone; Misty gives Water Stone; Surge gives Thunder Stone.
 - Erika gives Leaf Stone; Koga gives Everstone; Sabrina gives Moon Stone.
 - Blaine gives Fire Stone; Giovanni's Gym gives King's Rock; other battles stay default.
