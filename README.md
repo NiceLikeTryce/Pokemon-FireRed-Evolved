@@ -10,14 +10,8 @@ You need your own **clean US/English FireRed v1.0 or v1.1 ROM**.
 2. Select your original FireRed file, then **Patch and download**.
 3. Open the new game in your GBA emulator.
 
-Your ROM stays on your device. 
-Both patches produce the same game. 
-
-**Offline:** Apply .BPS with [Floating IPS](https://github.com/Sir-Walrus/Flips/releases).
-
 **Future Updates:** simply download the newest BPS.
 
-**Saves:** keep a backup. Give your save and new game the same name, ending in `.sav` and `.gba`.
 
 ## What's in FireRed Evolved?
 
