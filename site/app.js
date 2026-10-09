@@ -1,7 +1,7 @@
 'use strict';
 (() => {
   const $ = id => document.getElementById(id);
-  const themeKey = 'firered-refined-theme';
+  const themeKey = 'firered-evolved-theme';
   const setTheme = theme => {
     const night = theme === 'dark';
     document.documentElement.dataset.theme = night ? 'dark' : 'light';
@@ -76,7 +76,7 @@
       if (result.fileSize !== manifest.target_size || await digest('SHA-1', bytes) !== manifest.target_sha1 || await digest('SHA-256', bytes) !== manifest.target_sha256)
         throw new Error('Output verification failed. No game was downloaded.');
       const url = URL.createObjectURL(new Blob([bytes], {type: 'application/octet-stream'}));
-      const link = document.createElement('a'); link.href = url; link.download = `Pokemon_FireRed_Refined_${manifest.version}.gba`;
+      const link = document.createElement('a'); link.href = url; link.download = `Pokemon_FireRed_Evolved_${manifest.version}.gba`;
       document.body.append(link); link.click(); link.remove(); setTimeout(() => URL.revokeObjectURL(url), 60000);
       status('Done! Open the downloaded game in your GBA emulator.', 'success');
     } catch (error) { status(error.message, 'error'); }

@@ -38,7 +38,7 @@ jobs:
           for item in manifest['sources']:
               name = item['patch']
               assert Path(name).name == name and name.endswith('.bps')
-              request = urllib.request.Request(manifest['asset_root'] + '/' + name, headers={'User-Agent': 'FireRed-Refined-Pages'})
+              request = urllib.request.Request(manifest['asset_root'] + '/' + name, headers={'User-Agent': 'FireRed-Evolved-Pages'})
               data = urllib.request.urlopen(request, timeout=60).read()
               assert data[:4] == b'BPS1' and hashlib.sha256(data).hexdigest() == item['patch_sha256']
               (output / name).write_bytes(data)

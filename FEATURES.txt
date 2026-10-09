@@ -1,4 +1,4 @@
-# Pokemon FireRed Refined
+# Pokemon FireRed Evolved
 
 ## Pokemon and Pokedex
 - All 251 Gen1 and Gen2 Pokemon are obtainable.
@@ -26,6 +26,7 @@
 ## Walking Pokemon
 - All 251 Pokemon have walking followers and shiny palettes.
 - Followers match the nighttime color rules for other characters.
+- Followers face their travel direction and keep up while running and turning.
 - Your first healthy, non-Egg party member follows on foot.
 - Talk to your partner for cries, emotions and contextual reactions.
 - Friendship, health, weather, location and day/night affect reactions.
@@ -154,6 +155,7 @@
 
 ## Secret Bases
 - Secret Bases have 72 entrances and 24 interior layouts.
+- Outdoor roofs and ledges stay intact around Secret Base entrances.
 - SECRET POWER opens marked caves, trees and shrubs.
 - TM43 is sold at Celadon Department Store 2F.
 - Celadon Department Store 4F sells all 120 decorations.
