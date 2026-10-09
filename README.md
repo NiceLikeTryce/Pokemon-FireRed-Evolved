@@ -1,12 +1,12 @@
-# Pokémon FireRed Refined [BETA]
+# Pokémon FireRed Evolved [BETA]
 
 ## HOW TO PLAY
 
 You need your own **clean US/English FireRed v1.0 or v1.1 ROM**.
 
 1. Open the free web patcher for your ROM:
-   - [**FireRed v1.0 — patch attached**](https://niceliketryce.github.io/Pokemon-FireRed-Refined/?base=1.0)
-   - [**FireRed v1.1 — patch attached**](https://niceliketryce.github.io/Pokemon-FireRed-Refined/?base=1.1)
+   - [**FireRed v1.0 — patch attached**](https://niceliketryce.github.io/Pokemon-FireRed-Evolved/?base=1.0)
+   - [**FireRed v1.1 — patch attached**](https://niceliketryce.github.io/Pokemon-FireRed-Evolved/?base=1.1)
 2. Select your original FireRed file, then **Patch and download**.
 3. Open the new game in your GBA emulator.
 
@@ -19,7 +19,7 @@ Both patches produce the same game.
 
 **Saves:** keep a backup. Give your save and new game the same name, ending in `.sav` and `.gba`.
 
-## What's in FireRed Refined?
+## What's in FireRed Evolved?
 
 
 - **Walking partners:** all 251 Pokemon follow you, with shiny colors and contextual reactions.
@@ -47,7 +47,7 @@ Both patches produce the same game.
 - **Catch #1-150:** Mew under the truck.
 - **Catch #1-250:** Celebi's Faraway Island hide-and-seek.
 
-Still in **BETA**. [Report bugs or get help](https://github.com/NiceLikeTryce/Pokemon-FireRed-Refined/issues).
+Still in **BETA**. [Report bugs or get help](https://github.com/NiceLikeTryce/Pokemon-FireRed-Evolved/issues).
 
 BPS patches and free web-patcher source are distributed here. No ROMs are supplied. Only the current BPS release is included.
 
