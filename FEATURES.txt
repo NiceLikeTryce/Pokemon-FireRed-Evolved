@@ -29,6 +29,8 @@
 - All 251 Pokemon have walking followers and shiny palettes.
 - Followers match the nighttime color rules for other characters.
 - Followers face their travel direction and keep up while running and turning.
+- Followers remain visible in pause menus and NPC conversations.
+- Partners return with you when the Berry Pouch closes into dialogue.
 - Your first healthy, non-Egg party member follows on foot.
 - Talk to your partner for cries, emotions and contextual reactions.
 - Friendship, health, weather, location and day/night affect reactions.
@@ -197,12 +199,14 @@
 - Pallet Town's stray garden tiles are repaired; its north exit works normally.
 
 ## Berry Gardens and Mirage Island
-- Grow berries in 86 Kanto route plots and three Mirage Island plots.
+- Grow berries in 89 plots grouped into 27 side beds across Kanto and Mirage Island.
 - Empty plots show Emerald soft-loamy soil; Mirage Island uses its original soil tile.
 - Plant from the Berry Pouch or use a Berry directly on empty soft-loamy soil.
 - Water each growth stage; Emerald sprites, yields, harvesting and regrowth apply.
 - Each plot saves its growth/care state; older gardens keep their progress.
-- Berry soil uses clear ground and correct colors, including Secret Base routes.
+- Emerald bed edges and surrounding ground use exact original pixel colors.
+- Grouped beds stay outside encounter grass and off the main routes.
+- Picked plants disappear immediately; empty beds can be replanted.
 - Saving and reloading beside Berry Trees works safely.
 - JAIME gives the GOLDEEN CAN with the Town Map and explains watering.
 - Berry Forest ground berries respawn in 750 steps, half the original time.

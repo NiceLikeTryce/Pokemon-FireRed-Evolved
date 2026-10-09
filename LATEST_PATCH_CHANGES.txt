@@ -1,1 +1,3 @@
-Removed JAIME label from friendship advice.
+Kept followers visible in menus and dialogue.
+Grouped berry beds; matched Emerald edges/colors.
+Fixed picked sprites and pouch-return followers.
