@@ -157,7 +157,7 @@
 - Secret Bases have 72 entrances and 24 interior layouts.
 - Outdoor roofs and ledges stay intact around Secret Base entrances.
 - SECRET POWER opens marked caves, trees and shrubs.
-- TM43 is sold at Celadon Department Store 2F.
+- TM43 Secret Power costs ¥1,000 at Celadon Department Store 2F.
 - Celadon Department Store 4F sells all 120 decorations.
 - A Celadon collector swaps stored decorations.
 - Decorate, put away, discard, pack up and move bases.
