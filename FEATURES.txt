@@ -171,3 +171,6 @@
 - Base visits and decorating produce local TV news.
 - Friendly battles contribute to the Trainer Fan Club.
 - Earlier Frontier decoration rewards remain usable.
+
+## Frontier Music
+- Battle Frontier and its buildings play their original Emerald music.

@@ -20,7 +20,7 @@ You need your own **clean US/English FireRed v1.0 or v1.1 ROM**.
 - **Secret Bases:** make and decorate hideouts, shop for dolls and furniture, visit friends and battle their teams.
 - **All 251 Pokémon:** including Gen2 & LeafGreen exclusives.
 - **Walking partners:** all 251 Pokemon follow you, with shiny colors and contextual reactions. (Partial Credit: Exclsior)
-- **Battle Frontier:** including Link battles and battle recordings.
+- **Battle Frontier:** Link battles, recordings and original Emerald music.
 - **More encounters:** Altering Cave and Safari Zone supports Gen2 PKMN.
 - **Bookcase hints:** reveal Gen2 PKMN locations by searching bookcases.
 - **A changing world:** real-time day/night & weather.
