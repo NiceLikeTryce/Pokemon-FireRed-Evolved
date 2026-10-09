@@ -49,7 +49,7 @@ You need your own **clean US/English FireRed v1.0 or v1.1 ROM**.
 
 Still in **BETA**. [Report bugs or get help](https://github.com/NiceLikeTryce/Pokemon-FireRed-Evolved/issues).
 
-BPS patches and free web-patcher source are distributed here. 
+BPS patches and free web-patcher source are distributed here.
 
 No ROMs are supplied. Only the current BPS release is included.
 
