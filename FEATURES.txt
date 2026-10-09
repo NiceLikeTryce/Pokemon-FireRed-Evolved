@@ -44,7 +44,7 @@
 - Repels last longer and offer automatic reuse prompts.
 - Magma Armor and Flame Body speed up egg hatching.
 - Move tutors can teach repeatedly; normal eligibility and costs remain.
-- Celadon sells 32 TMs, including the 26 additions at custom prices.
+- Celadon Department Store sells all 50 TMs.
 - Celadon also sells Sun Stones and Moon Stones.
 - Mt. Moon and Pokemon Mansion have visible Sun Stone pickups.
 - Incoming trades reject Gen3 species and introduced items.
@@ -173,6 +173,23 @@
 - Base visits and decorating produce local TV news.
 - Friendly battles contribute to the Trainer Fan Club.
 - Earlier Frontier decoration rewards remain usable.
+
+## Contests and Pokeblocks
+- Celadon hosts five contest categories and four ranks.
+- Contest moves use appeals, combos, judges and category-based AI.
+- Winners earn category/rank ribbons and can display paintings in the gallery.
+- Condition, sheen and Nature preferences affect Pokeblock feeding.
+- Store 40 Pokeblocks in the Case; blend berries with NPCs or link partners.
+- The Celadon Pokemon Center has the Contest Lady and her favorite flavor.
+- The Contest Hall warp preserves wired link contests through judging.
+
+## Berry Gardens and Mirage Island
+- Plant, water, grow and harvest berries from 21 garden plots.
+- Six Kanto towns and Mirage Island contain garden plots.
+- A Celadon gardener provides the Wailmer Pail and berry help.
+- Normal Champion unlocks Mirage Island, Mom's hint and a Vermilion ferry option.
+- Mirage Island keeps Gen2 baby encounters, rare berries and three garden plots.
+- Full parties send gifted Pokemon and eggs to the PC.
 
 ## Frontier Music
 - Battle Frontier and its buildings play their original Emerald music.
