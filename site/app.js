@@ -27,7 +27,7 @@
       const response = await fetch('release.json', {cache: 'no-store'});
       if (!response.ok) throw new Error('The current patch is unavailable. Please use the BPS downloads.');
       manifest = await response.json();
-      if (!/^v0\.\d{2}$/.test(manifest.version) || manifest.sources.length !== 2) throw new Error('Invalid patch information.');
+      if (!/^v0\.\d{2,}$/.test(manifest.version) || manifest.sources.length !== 2) throw new Error('Invalid patch information.');
       $('version').textContent = `Game ${manifest.version}`;
       $('download').href = manifest.package_url;
       if (!['1.0', '1.1'].includes(base)) { status('Choose FireRed v1.0 or v1.1 above.'); return; }
