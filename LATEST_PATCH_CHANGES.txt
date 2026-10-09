@@ -1,3 +1,1 @@
-Kept followers visible in menus and dialogue.
-Grouped berry beds; matched Emerald edges/colors.
-Fixed picked sprites and pouch-return followers.
+Followers jump ledges with the player.

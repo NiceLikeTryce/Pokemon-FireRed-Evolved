@@ -23,7 +23,7 @@ You need your own **clean US/English FireRed v1.0 or v1.1 ROM**.
 - **Secret Bases:** make and decorate hideouts, shop for dolls and furniture, visit friends and battle their teams.
 - **Celadon Contests:** five categories, four ranks, ribbons and paintings.
 - **Pokéblocks:** blend berries with NPCs or link partners, then feed Pokemon.
-- **Followers:** walking partners remain visible in pause menus and NPC dialogue.
+- **Followers:** partners jump ledges with you and remain visible in pause menus and NPC dialogue.
 - **Berry Gardens:** 89 plots in grouped Emerald beds, outside wild grass. Plant, water, pick and replant across Kanto and Mirage Island.
 - **Mirage Island:** unlocked after Normal Champion, with Mom's hint and ferry access.
 - **More encounters:** Altering Cave and Safari Zone supports Gen2 PKMN.

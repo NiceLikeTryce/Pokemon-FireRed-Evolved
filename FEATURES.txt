@@ -29,6 +29,7 @@
 - All 251 Pokemon have walking followers and shiny palettes.
 - Followers match the nighttime color rules for other characters.
 - Followers face their travel direction and keep up while running and turning.
+- Followers jump ledges with you, including when you stop after landing.
 - Followers remain visible in pause menus and NPC conversations.
 - Partners return with you when the Berry Pouch closes into dialogue.
 - Your first healthy, non-Egg party member follows on foot.
