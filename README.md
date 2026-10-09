@@ -26,7 +26,7 @@ You need your own **clean US/English FireRed v1.0 or v1.1 ROM**.
 - **Berry Gardens:** 89 plots follow Emerald's berry schedule, growth, watering, harvest, regrowth and soil behavior across Kanto and Mirage Island.
 - **Mirage Island:** unlocked after Normal Champion, with Mom's hint and ferry access.
 - **More encounters:** Altering Cave and Safari Zone supports Gen2 PKMN.
-- **Bug fixes:** the first rival battle starts correctly; major Frontier and battle-screen freezes are fixed.
+- **Bug fixes:** Pallet tiles and its north exit are repaired; the first rival battle, major Frontier and battle-screen freezes are fixed.
 - **Bookcase hints:** reveal Gen2 PKMN locations by searching bookcases.
 - **Pokédex Habitat Guide:** view acquisition locations, odds, levels and unlock conditions in-game.
 - **A changing world:** real-time day/night & weather.

@@ -190,6 +190,7 @@
 
 ## Fixes and polish
 - First rival battle starts correctly instead of showing a black screen.
+- Pallet Town's stray garden tiles are repaired; its north exit works normally.
 
 ## Berry Gardens and Mirage Island
 - Port Emerald's 89 Berry Tree plots across 86 Kanto routes and Mirage Island.

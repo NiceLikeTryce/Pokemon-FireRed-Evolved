@@ -1,1 +1,2 @@
-Fixed mojibake dashes in both FireRed base-version link labels in the README.
+Fixed Pallet Town tiles and the north-exit crash.
+Protected Berry Tree sprite definitions from artwork regeneration.
