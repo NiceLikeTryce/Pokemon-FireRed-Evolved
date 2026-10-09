@@ -1,3 +1,2 @@
-Hide followers during NPC crossings.
-Restore Route1 garden scenery.
-Open and repair Viridian garden.
+Fix garden tiles after map crossings.
+Check all berry gardens.

@@ -207,6 +207,7 @@
 - Water each growth stage; Emerald sprites, yields, harvesting and regrowth apply.
 - Each plot saves its growth/care state; older gardens keep their progress.
 - Emerald bed edges and surrounding ground use exact original pixel colors.
+- Bed graphics stay intact when walking between connected areas.
 - Grouped beds stay outside encounter grass and off the main routes.
 - Picked plants disappear immediately; empty beds can be replanted.
 - Saving and reloading beside Berry Trees works safely.
