@@ -188,9 +188,15 @@
 - The Celadon Pokemon Center has the Contest Lady and her favorite flavor.
 - The Contest Hall warp preserves wired link contests through judging.
 
+## Fixes and polish
+- First rival battle starts correctly instead of showing a black screen.
+
 ## Berry Gardens and Mirage Island
-- Plant, water, grow and harvest berries from 21 garden plots.
-- Six Kanto towns and Mirage Island contain garden plots.
+- Port Emerald's 89 Berry Tree plots across 86 Kanto routes and Mirage Island.
+- Empty plots show Emerald's dark soft-loamy soil with ordinary walkable ground.
+- Plant from the Berry Pouch or use a Berry directly on empty soft-loamy soil.
+- Water each growth stage; Emerald sprites, yields, harvesting and regrowth apply.
+- Each plot saves its growth/care state; older gardens keep their progress.
 - JAIME gives the GOLDEEN CAN with the Town Map and explains watering.
 - Berry Forest ground berries respawn in 750 steps, half the original time.
 - A Celadon gardener offers seeds and planting help.
