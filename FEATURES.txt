@@ -180,13 +180,16 @@
 - Winners earn category/rank ribbons and can display paintings in the gallery.
 - Condition, sheen and Nature preferences affect Pokeblock feeding.
 - Store 40 Pokeblocks in the Case; blend berries with NPCs or link partners.
+- Contest reception gives the Pokeblock Case on first contact.
 - The Celadon Pokemon Center has the Contest Lady and her favorite flavor.
 - The Contest Hall warp preserves wired link contests through judging.
 
 ## Berry Gardens and Mirage Island
 - Plant, water, grow and harvest berries from 21 garden plots.
 - Six Kanto towns and Mirage Island contain garden plots.
-- A Celadon gardener provides the Wailmer Pail and berry help.
+- JAIME gives the GOLDEEN CAN with the Town Map and explains watering.
+- Berry Forest ground berries respawn in 750 steps, half the original time.
+- A Celadon gardener offers seeds and planting help.
 - Normal Champion unlocks Mirage Island, Mom's hint and a Vermilion ferry option.
 - Mirage Island keeps Gen2 baby encounters, rare berries and three garden plots.
 - Full parties send gifted Pokemon and eggs to the PC.
