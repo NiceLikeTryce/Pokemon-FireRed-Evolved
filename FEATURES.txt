@@ -3,7 +3,7 @@
 ## Pokemon and Pokedex
 - All 251 Gen1 and Gen2 Pokemon are obtainable.
 - FireRed and LeafGreen wild rosters are combined.
-- Itemless wild Pokemon have a 25% chance for any of all 43 berries, including Enigma.
+- Itemless wild Pokemon have a 25% berry chance; Enigma has the rarest weight.
 - Gen1 starters have wild encounters after Normal Champion.
 - Rare trade-only Kanto species have wild habitats.
 - Gen2 wild Pokemon are available before Champion.
