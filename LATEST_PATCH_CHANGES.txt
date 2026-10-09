@@ -1,0 +1,3 @@
+Berry gardens now use Emerald's berry roster, soft-soil patches, staged growth,
+watering, yield, harvest and regrowth behavior across Kanto and Mirage Island.
+Removed the added Celadon seed seller.
