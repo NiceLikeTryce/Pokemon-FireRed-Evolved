@@ -1,1 +1,2 @@
-README: remove the Bug fixes bullet.
+- Audit all city maps against vanilla FireRed.
+- Restore the retired Lavender wall's vanilla elevation flag.
