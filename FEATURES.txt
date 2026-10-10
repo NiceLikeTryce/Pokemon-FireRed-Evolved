@@ -220,14 +220,15 @@
 - Cut keeps the player visible after trees or grass and preserves the selected target.
 - Reach the Celadon Contest Hall by walking from the west sidewalk around the pond.
 - Celadon Department Store's front door layering, 4F trader and nine-choice menu work correctly.
-- Route 16's two tree-edge tiles match the original map.
+- Route 16's tree hideout keeps native tree artwork and remains usable.
 - Contest-related Celadon NPCs and maps remain reachable without blocking the Hall door.
 - The S.S. Anne remains docked after HM01; Bill gives Eevee and the ticket together.
 - Fishing punctuation and cave corner tiles are fixed; eight wall-corner indents were moved.
 - Lavender Town's Pokemon Center tile is restored; its Secret Base moved to Route 24.
 - Route 5 Day Care describes the Togepi gift only as an EGG.
 - Pallet Town's original ground tiles are restored; its north exit works normally.
-- Fly restores the player and ends the bird animation after landing, even if a held pose stalls.
+- Fly uses the correct player artwork before takeoff and after landing; its bird animation finishes normally.
+- Older saves receive corrected Celadon entrances and Route 11, 16 and 25 tiles.
 - Berry Gardens, tree objects and special bed tiles are removed; affected terrain is restored.
 
 ## Frontier Music

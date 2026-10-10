@@ -1,2 +1,3 @@
-- Restore the player after Fly and stop the bird animation if landing movement stalls.
-- Verify the Celadon Department Store doorway and reach the Contest Hall by walking from the west sidewalk around the pond.
+- Fix Fly player artwork before takeoff and after landing.
+- Fix Celadon door layers and old-save Contest Hall access.
+- Fix double-battle intros; preserve Route 16's native-looking tree hideout.
