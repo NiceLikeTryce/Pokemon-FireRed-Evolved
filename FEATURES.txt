@@ -203,9 +203,10 @@
 ## Fixes and polish
 - First rival battle starts correctly instead of showing a black screen.
 - Pallet Town's stray garden tiles are repaired; its north exit works normally.
+- Fly continues through its warp if the player's field-move animation gets stuck.
 
 ## Berry Gardens and Mirage Island
-- Grow berries in 89 plots grouped into 27 side beds across Kanto and Mirage Island.
+- Grow berries in 89 plots grouped into 25 side beds across Kanto and Mirage Island.
 - Empty plots show Emerald soft-loamy soil; Mirage Island uses its original soil tile.
 - Plant from the Berry Pouch or use a Berry directly on empty soft-loamy soil.
 - Water each growth stage; Emerald sprites, yields, harvesting and regrowth apply.

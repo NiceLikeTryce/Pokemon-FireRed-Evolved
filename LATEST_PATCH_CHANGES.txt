@@ -1,4 +1,2 @@
-- Restore the original Nugget Bridge tile and replace Cerulean's green bridge tile.
-- Remove the Route 24 Berry Garden; relocate its three tree plots.
-- Preserve all 89 saved tree IDs.
-- Ensure layout tile changes rebuild into the ROM.
+- Prevent Fly from freezing when the player's field-move animation stalls.
+- Keep the normal animation when it finishes on time.
