@@ -4,4 +4,3 @@
 - Prevent Berry Bed tiles from replacing native Cerulean Gym art.
 - Refresh the Habitat Guide for the relocated trees.
 - Audit all Kanto city scenes in Day and Night.
-- Archive the validated ROM with source and checksum provenance.
