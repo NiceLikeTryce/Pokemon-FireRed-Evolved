@@ -1,2 +1,2 @@
-- Move Route 11's wall indent to a straight Route 25 cliff face.
-- Match all other Route tiles and borders to vanilla FireRed.
+- Keep the player visible after Cut; show all four Pokemon in double battles.
+- Open the Celadon Contest Hall route; fix its door, trader menu and nearby tiles.
