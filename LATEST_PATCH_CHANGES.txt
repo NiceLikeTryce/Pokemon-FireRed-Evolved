@@ -1,2 +1,2 @@
-- Audit all city maps against vanilla FireRed.
-- Restore the retired Lavender wall's vanilla elevation flag.
+- Move Route 11's wall indent to a straight Route 25 cliff face.
+- Match all other Route tiles and borders to vanilla FireRed.
