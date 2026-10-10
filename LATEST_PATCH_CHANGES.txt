@@ -1,6 +1,4 @@
-- Remove the Cerulean Berry Garden and restore native map art.
-- Move its two Berry Trees into the Route 7 bed; retain all 89 trees.
-- Replace the grass tile at Nugget Bridge's lower-left edge with water.
-- Prevent Berry Bed tiles from replacing native Cerulean Gym art.
-- Refresh the Habitat Guide for the relocated trees.
-- Audit all Kanto city scenes in Day and Night.
+- Restore the original Nugget Bridge tile and replace Cerulean's green bridge tile.
+- Remove the Route 24 Berry Garden; relocate its three tree plots.
+- Preserve all 89 saved tree IDs.
+- Ensure layout tile changes rebuild into the ROM.

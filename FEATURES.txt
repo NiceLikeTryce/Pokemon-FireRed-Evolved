@@ -216,6 +216,8 @@
 - Berry Bed art stays on its layout; connected maps and buildings keep native tiles.
 - Grouped beds stay outside encounter grass and off the main routes.
 - Picked plants disappear immediately; empty beds can be replanted.
+- Cerulean City and Route 24 have no berry beds; all 89 saved trees remain elsewhere.
+- Cerulean's yellow bridge edge and Nugget Bridge map tiles match their surroundings.
 - Saving and reloading beside Berry Trees works safely.
 - JAIME gives the GOLDEEN CANTEEN with the Town Map and explains watering.
 - Berry Forest ground berries respawn in 750 steps, half the original time.
