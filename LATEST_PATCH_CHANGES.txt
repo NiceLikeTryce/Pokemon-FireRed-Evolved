@@ -1,1 +1,1 @@
-- Fix the leftover cave indent tile beside Lavender Town's Pokemon Center.
+README: remove the Bug fixes bullet.
