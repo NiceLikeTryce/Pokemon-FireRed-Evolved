@@ -1,2 +1,3 @@
-- Prevent Fly from freezing when the player's field-move animation stalls.
-- Keep the normal animation when it finishes on time.
+- Remove Berry Gardens and restore default map and tileset art.
+- Disable garden interactions while preserving old saves.
+- Keep the Cerulean bridge plank and unrelated Berry Forest berries.

@@ -24,7 +24,7 @@ You need your own **clean US/English FireRed v1.0 or v1.1 ROM**.
 - **Celadon Contests:** five categories, four ranks, ribbons and paintings.
 - **Pokéblocks:** blend berries with NPCs or link partners, then feed Pokemon.
 - **Followers:** partners jump ledges, stay during menus and dialogue, and hide during NPC crossings.
-- **Berry Gardens:** 89 plots in grouped Emerald beds, outside wild grass. Plant, water, pick and replant across Kanto and Mirage Island.
+- **Berry Forest berries:** ground berries respawn in half the usual steps.
 - **Mirage Island:** unlocked after Normal Champion, with Mom's hint and ferry access.
 - **More encounters:** Altering Cave and Safari Zone supports Gen2 PKMN.
 - **Bug fixes:** Pallet tiles and its north exit are repaired; the first rival battle, major Frontier and battle-screen freezes are fixed.

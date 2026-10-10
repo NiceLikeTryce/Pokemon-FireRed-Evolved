@@ -63,6 +63,9 @@
 - Saved DAY/NIGHT options override effective daylight.
 - Selected NPC dialogue changes with the time of day.
 - Outdoor weather includes restored effects and Ember Spa fog.
+- Berry Forest ground berries respawn in 750 steps, half the original time.
+- Mirage Island unlocks after Normal Champion with Mom hints and a Vermilion ferry option.
+- Mirage Island keeps Gen2 baby encounters and rare berries.
 - Kanto and Frontier windows light correctly at night.
 - Pyramid lights are limited to its doorways.
 - Menus, interiors and battles retain their normal colors.
@@ -202,30 +205,9 @@
 
 ## Fixes and polish
 - First rival battle starts correctly instead of showing a black screen.
-- Pallet Town's stray garden tiles are repaired; its north exit works normally.
+- Pallet Town's original ground tiles are restored; its north exit works normally.
 - Fly continues through its warp if the player's field-move animation gets stuck.
-
-## Berry Gardens and Mirage Island
-- Grow berries in 89 plots grouped into 25 side beds across Kanto and Mirage Island.
-- Empty plots show Emerald soft-loamy soil; Mirage Island uses its original soil tile.
-- Plant from the Berry Pouch or use a Berry directly on empty soft-loamy soil.
-- Water each growth stage; Emerald sprites, yields, harvesting and regrowth apply.
-- Each plot saves its growth/care state; older gardens keep their progress.
-- Emerald bed edges and surrounding ground use exact original pixel colors.
-- Native ground stays in place around beds; special grass is limited to cleared trees and planting approaches.
-- Bed graphics stay intact when walking between connected areas.
-- Berry Bed art stays on its layout; connected maps and buildings keep native tiles.
-- Grouped beds stay outside encounter grass and off the main routes.
-- Picked plants disappear immediately; empty beds can be replanted.
-- Cerulean City and Route 24 have no berry beds; all 89 saved trees remain elsewhere.
-- Cerulean's yellow bridge edge and Nugget Bridge map tiles match their surroundings.
-- Saving and reloading beside Berry Trees works safely.
-- JAIME gives the GOLDEEN CANTEEN with the Town Map and explains watering.
-- Berry Forest ground berries respawn in 750 steps, half the original time.
-- Mt. Moon Zubat is 10%; encounter frequency is reduced by 25% on all floors.
-- Normal Champion unlocks Mirage Island, Mom's hint and a Vermilion ferry option.
-- Mirage Island keeps Gen2 baby encounters, rare berries and three garden plots.
-- Full parties send gifted Pokemon and eggs to the PC.
+- Berry Gardens, tree objects and special bed tiles are removed; affected terrain is restored.
 
 ## Frontier Music
 - Battle Frontier and its buildings play their original Emerald music.
