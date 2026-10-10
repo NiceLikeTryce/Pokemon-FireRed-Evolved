@@ -1,1 +1,3 @@
-- Show the evolved Pokémon's sprite correctly during evolution.
+- Keep followers moving during forced scenes; hide them during Center healing.
+- Recover from stuck field-move animations and keep defeated trainers facing the player.
+- Keep one Secret Base indent per route and restore removed terrain.

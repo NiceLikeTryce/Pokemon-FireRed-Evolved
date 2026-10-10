@@ -26,6 +26,8 @@
 - Press SELECT on a Pokemon's area map to open its source-based Habitat Guide.
 
 ## Walking Pokemon
+- Followers follow forced scripted walks while controls are locked.
+- Followers hide during Pokemon Center healing and return afterward.
 - All 251 Pokemon have walking followers and shiny palettes.
 - Followers match the nighttime color rules for other characters.
 - Followers face their travel direction and keep up while running and turning.
@@ -148,6 +150,8 @@
 - Invalid or oversized recordings are rejected without losing the previous recording.
 
 ## Fixes and polish
+- Defeated trainers keep facing the player.
+- Stuck field-move animations restore the player and continue.
 - Gen2 capture black screens and Factory Summary freezes are fixed.
 - Factory yes/no menus, warps and participant positions are corrected.
 - Frontier doors, PCs and PASS screen transitions are repaired.
@@ -177,7 +181,8 @@
 - This condensed feature list accompanies both repositories.
 
 ## Secret Bases
-- Secret Bases have 72 entrances and 24 interior layouts.
+- Route maps have at most one indent; removed extras restore original terrain.
+- Keep 46 entrances across Kanto, islands and towns; limit numbered Routes to one each.
 - Outdoor roofs and ledges stay intact around Secret Base entrances.
 - SECRET POWER opens marked caves, trees and shrubs.
 - Brock gives TM43 Secret Power and explains Secret Bases.
