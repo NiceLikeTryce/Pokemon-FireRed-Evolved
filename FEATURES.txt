@@ -182,7 +182,7 @@
 
 ## Secret Bases
 - Route maps have at most one indent; removed extras restore original terrain.
-- Keep 46 entrances across Kanto, islands and towns; limit numbered Routes to one each.
+- Keep 32 entrances across Kanto, islands and towns; limit numbered Routes to one each.
 - Outdoor roofs and ledges stay intact around Secret Base entrances.
 - SECRET POWER opens marked caves, trees and shrubs.
 - Brock gives TM43 Secret Power and explains Secret Bases.
@@ -229,7 +229,8 @@
 - Pallet Town's original ground tiles are restored; its north exit works normally.
 - Fly uses the correct player artwork before takeoff and after landing; its bird animation finishes normally.
 - Older saves receive corrected Celadon entrances and Route 11, 16 and 25 tiles.
-- Gardening uses 43 existing hidden ground-berry spots without changing map scenery.
+- Gardening uses 57 hidden ground-berry spots.
+- Fourteen added spots use small native dark marks on clear route ground.
 - Collect the original berry, then check the same spot to plant, water and harvest.
 - JAIME gives the Goldeen Canteen with the Town Map, or on your next visit.
 - Key Items lists GOLDEEN CAN; dialogue and its description say GOLDEEN CANTEEN.
@@ -237,6 +238,8 @@
 - Save statistics and confirmation frames keep separate correct colors.
 - Route 16's tree edge renders correctly when walking west from Celadon.
 - The cliff two tiles right of Route 8's hideout matches the surrounding wall.
+- Safari Zone layouts, borders and tile artwork match vanilla FireRed.
+- The Safari entrance's second window lights both halves at night.
 
 ## Frontier Music
 - Battle Frontier and its buildings play their original Emerald music.

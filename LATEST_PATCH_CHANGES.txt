@@ -1,1 +1,3 @@
-- Shorten the Key Items name to GOLDEEN CAN.
+- Add 14 hidden berry marks on open route ground.
+- Fix the Safari entrance's second nighttime window.
+- Restore all Safari Zone tiles to vanilla.
