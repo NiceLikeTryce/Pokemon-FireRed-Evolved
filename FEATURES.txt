@@ -232,6 +232,7 @@
 - Gardening uses 43 existing hidden ground-berry spots without changing map scenery.
 - Collect the original berry, then check the same spot to plant, water and harvest.
 - JAIME gives the Goldeen Canteen with the Town Map, or on your next visit.
+- Key Items lists GOLDEEN CAN; dialogue and its description say GOLDEEN CANTEEN.
 - Berries grow by RTC, with stage watering, yields, regrowth and saved crop care.
 - Save statistics and confirmation frames keep separate correct colors.
 - Route 16's tree edge renders correctly when walking west from Celadon.

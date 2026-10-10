@@ -1,3 +1,1 @@
-- Restore invisible berry gardening and JAIME's Goldeen Canteen.
-- Fix SAVE's pink border and Route 16's connected tree artwork.
-- Restore the cliff two tiles right of Route 8's hideout.
+- Shorten the Key Items name to GOLDEEN CAN.
