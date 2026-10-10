@@ -1,3 +1,1 @@
-- Restore the Route 25 couple to their original spots by Bill's house.
-- Add Rare Candy and Master Ball to Viridian Mart for ¥0.
-- Post one automatic Discord summary per native game version tag.
+- Keep the follower's colors intact in Poké Mart previews.
