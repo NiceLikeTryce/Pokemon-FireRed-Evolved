@@ -147,6 +147,10 @@
 - Factory yes/no menus, warps and participant positions are corrected.
 - Frontier doors, PCs and PASS screen transitions are repaired.
 - Clipped Frontier welcomes, trade dialogue and TM prices are fixed.
+- Save confirmation, overwrite and replace menus keep their standard colors.
+- Route 25's two overlapping NPCs no longer obstruct the ledge passage.
+- Poke Mart prices remain visible; item names and descriptions are consistent.
+- Mt. Moon's pre-fossil Sun Stone stays hidden but remains collectible.
 - Viridian Cut/bush sprite corruption is fixed.
 - Window alignment, unwanted flower glow and building light shapes are corrected.
 - Power Plant doors and Silph roof layering are repaired.
@@ -207,12 +211,15 @@
 - Water each growth stage; Emerald sprites, yields, harvesting and regrowth apply.
 - Each plot saves its growth/care state; older gardens keep their progress.
 - Emerald bed edges and surrounding ground use exact original pixel colors.
+- Native ground stays in place around beds; special grass is limited to cleared trees and planting approaches.
 - Bed graphics stay intact when walking between connected areas.
+- Berry Bed art stays on its layout; connected maps and buildings keep native tiles.
 - Grouped beds stay outside encounter grass and off the main routes.
 - Picked plants disappear immediately; empty beds can be replanted.
 - Saving and reloading beside Berry Trees works safely.
-- JAIME gives the GOLDEEN CAN with the Town Map and explains watering.
+- JAIME gives the GOLDEEN CANTEEN with the Town Map and explains watering.
 - Berry Forest ground berries respawn in 750 steps, half the original time.
+- Mt. Moon Zubat is 10%; encounter frequency is reduced by 25% on all floors.
 - Normal Champion unlocks Mirage Island, Mom's hint and a Vermilion ferry option.
 - Mirage Island keeps Gen2 baby encounters, rare berries and three garden plots.
 - Full parties send gifted Pokemon and eggs to the PC.
