@@ -1,1 +1,1 @@
-- Keep the follower's colors intact in Poké Mart previews.
+- Show the evolved Pokémon's sprite correctly during evolution.

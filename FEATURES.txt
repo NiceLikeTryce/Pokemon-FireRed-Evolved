@@ -46,6 +46,7 @@
 - Sun Stone evolves Eevee into Espeon; Moon Stone produces Umbreon.
 - Friendship Espeon uses 4:00 AM-5:59 PM; Umbreon uses 6:00 PM-3:59 AM.
 - Stone and Gen2 evolutions offer missed level-up moves.
+- Evolution scenes display the evolved Pokémon's full sprite.
 - SELECT on Summary Skills cycles Stats, IVs and EVs.
 - Repels last longer and offer automatic reuse prompts.
 - Magma Armor and Flame Body speed up egg hatching.
