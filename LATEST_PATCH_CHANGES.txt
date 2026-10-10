@@ -1,3 +1,3 @@
-- Keep followers moving during forced scenes; hide them during Center healing.
-- Recover from stuck field-move animations and keep defeated trainers facing the player.
-- Keep one Secret Base indent per route and restore removed terrain.
+- Guard scripted battles from stale trainer-object updates.
+- Check Secret Base indents and approaches against ledges.
+- Separate the short patch summary from detailed release notes.

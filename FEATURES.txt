@@ -214,6 +214,8 @@
 
 ## Fixes and polish
 - First rival battle starts correctly instead of showing a black screen.
+- Scripted battles safely return without stale trainer-object updates.
+- Secret Base indents and approach tiles are clear of ledges.
 - Pallet Town's original ground tiles are restored; its north exit works normally.
 - Fly continues through its warp if the player's field-move animation gets stuck.
 - Berry Gardens, tree objects and special bed tiles are removed; affected terrain is restored.
