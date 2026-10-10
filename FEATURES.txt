@@ -229,7 +229,13 @@
 - Pallet Town's original ground tiles are restored; its north exit works normally.
 - Fly uses the correct player artwork before takeoff and after landing; its bird animation finishes normally.
 - Older saves receive corrected Celadon entrances and Route 11, 16 and 25 tiles.
-- Berry Gardens, tree objects and special bed tiles are removed; affected terrain is restored.
+- Gardening uses 43 existing hidden ground-berry spots without changing map scenery.
+- Collect the original berry, then check the same spot to plant, water and harvest.
+- JAIME gives the Goldeen Canteen with the Town Map, or on your next visit.
+- Berries grow by RTC, with stage watering, yields, regrowth and saved crop care.
+- Save statistics and confirmation frames keep separate correct colors.
+- Route 16's tree edge renders correctly when walking west from Celadon.
+- The cliff two tiles right of Route 8's hideout matches the surrounding wall.
 
 ## Frontier Music
 - Battle Frontier and its buildings play their original Emerald music.
