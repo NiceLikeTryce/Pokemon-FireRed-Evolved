@@ -20,7 +20,7 @@ You need your own **clean US/English FireRed v1.0 or v1.1 ROM**.
 - **All 251 Pokémon:** including Gen2 & LeafGreen exclusives.
 - **Walking partners:** all 251 Pokemon follow you, with shiny colors and contextual reactions.
 - **Battle Frontier:** Link battles, recordings and original Emerald music.
-- **Secret Bases:** 32 entrances across Kanto, islands and towns; one per numbered Route; decorate, shop, visit and battle.
+- **Secret Bases:** 31 entrances across Kanto, islands and towns; one per numbered Route; decorate, shop, visit and battle.
 - **Celadon Contests:** five categories, four ranks, ribbons and paintings.
 - **Pokéblocks:** blend berries with NPCs or link partners, then feed Pokemon.
 - **Followers:** partners jump ledges, stay during menus and dialogue, and hide during NPC crossings.
@@ -37,6 +37,7 @@ You need your own **clean US/English FireRed v1.0 or v1.1 ROM**.
 - **Easier Evolutions:** Bill's trade-backs, Eevee Sun/Moon Stones and missed-move learning.
 - **Better training:** IV/EV viewer, longer Repels, reuse Repels, faster eggs with Magma Armor/Flame Body.
 - **Legendaries:** roaming beast visible in grass; legendaries return until caught; roaming bugs fixed.
+- **Static encounters:** Pokemon turn toward you from any side.
 - **Acro Bike:** Mom's postgame gift; hop ledges both ways.
 - **Shiny hunting:** Ruby/Sapphire-style RNG. (PokeFinder Eggs, Gifts, & Gen1 Static features **WORK**. Wild Encounters & Gen2 Static features **WILL NOT**.)
 

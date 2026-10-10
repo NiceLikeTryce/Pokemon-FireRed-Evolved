@@ -1,3 +1,4 @@
-- Add 14 hidden berry marks on open route ground.
-- Fix the Safari entrance's second nighttime window.
-- Restore all Safari Zone tiles to vanilla.
+- Fix missing double-battle teammates, including Summary returns.
+- Make static Pokemon face the player; reveal Electrode on contact.
+- Fix Ember Spa water blocks and Bond Bridge's steps.
+- Use FireRed's player frames for watering.

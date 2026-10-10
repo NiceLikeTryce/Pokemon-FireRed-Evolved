@@ -182,7 +182,7 @@
 
 ## Secret Bases
 - Route maps have at most one indent; removed extras restore original terrain.
-- Keep 32 entrances across Kanto, islands and towns; limit numbered Routes to one each.
+- Keep 31 entrances across Kanto, islands and towns; limit numbered Routes to one each.
 - Outdoor roofs and ledges stay intact around Secret Base entrances.
 - SECRET POWER opens marked caves, trees and shrubs.
 - Brock gives TM43 Secret Power and explains Secret Bases.
@@ -243,3 +243,15 @@
 
 ## Frontier Music
 - Battle Frontier and its buildings play their original Emerald music.
+
+## Static encounters
+- Static Pokemon turn toward you from any side.
+- Disguised Electrode reveals itself and faces you when touched.
+- Mew, Ho-Oh and Celebi face you after their scripted appearances.
+- Static Pokemon retain separate colors from followers, NPCs and roaming beasts.
+
+## Field and battle repairs
+- Ordinary double battles show all four Pokemon, including after Summary.
+- Ember Spa water covers match the pool without colored blocks.
+- Bond Bridge terrain and borders match vanilla FireRed.
+- Watering uses FireRed's player frames with small water ripples.
