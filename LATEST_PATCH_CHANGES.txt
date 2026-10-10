@@ -1,4 +1,2 @@
-- Fix missing double-battle teammates, including Summary returns.
-- Make static Pokemon face the player; reveal Electrode on contact.
-- Fix Ember Spa water blocks and Bond Bridge's steps.
-- Use FireRed's player frames for watering.
+- Keep Frontier lights inside window outlines.
+- Disable Lavender Tower's vertical side lights.

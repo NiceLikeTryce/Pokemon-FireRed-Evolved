@@ -162,6 +162,8 @@
 - Mt. Moon's pre-fossil Sun Stone stays hidden but remains collectible.
 - Viridian Cut/bush sprite corruption is fixed.
 - Window alignment, unwanted flower glow and building light shapes are corrected.
+- Frontier lights stay inside windows; Battle Dome pane dividers stay visible.
+- Lavender Pokemon Tower's two vertical side lights are disabled.
 - Followers keep their colors in Poké Mart map previews.
 - Power Plant doors and Silph roof layering are repaired.
 - Faraway music overlap and tall-grass rendering are fixed.
