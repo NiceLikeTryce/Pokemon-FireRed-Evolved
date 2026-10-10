@@ -1,2 +1,5 @@
-- Keep Frontier lights inside window outlines.
-- Disable Lavender Tower's vertical side lights.
+- Force Cerulean's north ledge to vanilla.
+- Fix Tower door and paving lights.
+- Disable Factory side lights.
+- Light remaining Ranking Hall windows.
+- Fix Celadon sign path and fence.

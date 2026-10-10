@@ -163,6 +163,8 @@
 - Viridian Cut/bush sprite corruption is fixed.
 - Window alignment, unwanted flower glow and building light shapes are corrected.
 - Frontier lights stay inside windows; Battle Dome pane dividers stay visible.
+- Battle Tower's whole door and all Ranking Hall panes light at night.
+- Battle Factory's vertical side lights are disabled.
 - Lavender Pokemon Tower's two vertical side lights are disabled.
 - Followers keep their colors in Poké Mart map previews.
 - Power Plant doors and Silph roof layering are repaired.
@@ -257,3 +259,7 @@
 - Ember Spa water covers match the pool without colored blocks.
 - Bond Bridge terrain and borders match vanilla FireRed.
 - Watering uses FireRed's player frames with small water ripples.
+
+## City paths
+- Cerulean's north jump ledge always uses vanilla tiles.
+- Celadon's city-sign path is open; nearby fencing stays behind the player.
