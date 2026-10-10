@@ -89,6 +89,7 @@
 - Route5 Day Care gives a Togepi Egg on first successful interaction.
 - The final Viridian Forest Bug Catcher rewards TREE SHAKER.
 - Gym bonuses accompany badges and TM rewards.
+- Viridian City Mart sells Rare Candy and Master Ball for ¥0.
 - Gym TMs use the highest base power of their type; Brock keeps Secret Power.
 - Misty gives Water Pulse; Surge gives Thunder; Erika gives SolarBeam.
 - Koga gives Sludge Bomb; Sabrina gives Psychic; Blaine gives Overheat; Giovanni gives Earthquake.
@@ -151,7 +152,7 @@
 - Frontier doors, PCs and PASS screen transitions are repaired.
 - Clipped Frontier welcomes, trade dialogue and TM prices are fixed.
 - Save confirmation, overwrite and replace menus keep their standard colors.
-- Route 25's two overlapping NPCs no longer obstruct the ledge passage.
+- Route 25's couple stand at their original spots in front of Bill's house.
 - Poke Mart prices remain visible; item names and descriptions are consistent.
 - Mt. Moon's pre-fossil Sun Stone stays hidden but remains collectible.
 - Viridian Cut/bush sprite corruption is fixed.
@@ -169,6 +170,7 @@
 - The web patcher supports game release numbers beyond two digits.
 - Offline patching works with Floating IPS.
 - Dark mode is the default; Night/Light mode remembers the chosen theme.
+- Discord posts one condensed update per native game version tag.
 - Version notes and changelogs are consolidated per patch.
 - This condensed feature list accompanies both repositories.
 
