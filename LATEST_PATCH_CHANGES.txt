@@ -1,2 +1,2 @@
-- Keep the player visible after Cut; show all four Pokemon in double battles.
-- Open the Celadon Contest Hall route; fix its door, trader menu and nearby tiles.
+- Restore the player after Fly and stop the bird animation if landing movement stalls.
+- Verify the Celadon Department Store doorway and reach the Contest Hall by walking from the west sidewalk around the pond.
