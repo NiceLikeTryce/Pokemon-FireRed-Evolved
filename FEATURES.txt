@@ -216,6 +216,11 @@
 - First rival battle starts correctly instead of showing a black screen.
 - Scripted battles safely return without stale trainer-object updates.
 - Secret Base indents and approach tiles are clear of ledges.
+- Cut and Secret Power keep the player visible and preserve the correct target.
+- The S.S. Anne remains docked after HM01; Bill gives Eevee and the ticket together.
+- Fishing punctuation and cave corner tiles are fixed; eight wall-corner indents were moved.
+- Lavender Town's Pokemon Center tile is restored; its Secret Base moved to Route 24.
+- Route 5 Day Care describes the Togepi gift only as an EGG.
 - Pallet Town's original ground tiles are restored; its north exit works normally.
 - Fly continues through its warp if the player's field-move animation gets stuck.
 - Berry Gardens, tree objects and special bed tiles are removed; affected terrain is restored.

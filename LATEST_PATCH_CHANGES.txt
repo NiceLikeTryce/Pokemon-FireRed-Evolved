@@ -1,3 +1,4 @@
-- Guard scripted battles from stale trainer-object updates.
-- Check Secret Base indents and approaches against ledges.
-- Separate the short patch summary from detailed release notes.
+- Keep the player visible after Cut and Secret Power.
+- Keep the S.S. Anne docked; give Bill's ticket and Eevee together.
+- Say only EGG for the Route 5 gift; fix fishing punctuation.
+- Restore cave corners; move eight indents; fix Lavender Center tile.
