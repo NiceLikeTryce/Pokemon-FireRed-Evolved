@@ -1,5 +1,4 @@
-- Force Cerulean's north ledge to vanilla.
-- Fix Tower door and paving lights.
-- Disable Factory side lights.
-- Light remaining Ranking Hall windows.
-- Fix Celadon sign path and fence.
+- Restore Route25 wall and Cerulean's left tile.
+- Light only Factory yellow panels.
+- Fix Frontier text and Contest introductions.
+- Keep sign-up followers; reduce running lag.

@@ -164,7 +164,7 @@
 - Window alignment, unwanted flower glow and building light shapes are corrected.
 - Frontier lights stay inside windows; Battle Dome pane dividers stay visible.
 - Battle Tower's whole door and all Ranking Hall panes light at night.
-- Battle Factory's vertical side lights are disabled.
+- Battle Factory lights only its yellow panels; white side strips stay unlit.
 - Lavender Pokemon Tower's two vertical side lights are disabled.
 - Followers keep their colors in Poké Mart map previews.
 - Power Plant doors and Silph roof layering are repaired.
@@ -186,7 +186,7 @@
 
 ## Secret Bases
 - Route maps have at most one indent; removed extras restore original terrain.
-- Keep 31 entrances across Kanto, islands and towns; limit numbered Routes to one each.
+- Keep 30 entrances across Kanto, islands and towns; limit numbered Routes to one each.
 - Outdoor roofs and ledges stay intact around Secret Base entrances.
 - SECRET POWER opens marked caves, trees and shrubs.
 - Brock gives TM43 Secret Power and explains Secret Bases.
@@ -261,5 +261,12 @@
 - Watering uses FireRed's player frames with small water ripples.
 
 ## City paths
-- Cerulean's north jump ledge always uses vanilla tiles.
+- Cerulean's north jump ledge and its left neighbor always use vanilla tiles.
 - Celadon's city-sign path is open; nearby fencing stays behind the player.
+- Route 25's northern wall matches vanilla.
+
+## Field and Contest smoothness
+- Frontier reception dialogue fits the screen.
+- Contest introductions show the correct Pokemon immediately.
+- Followers keep moving during scripted contest sign-up.
+- Follower and lighting caches reduce running frame drops.
