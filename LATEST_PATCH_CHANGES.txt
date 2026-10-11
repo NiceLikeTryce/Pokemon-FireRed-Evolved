@@ -1,5 +1,3 @@
-- Restore native habitats.
-- Spread Gen2 across Kanto.
-- Expand Safari roster.
-- Enforce #1-#251.
-- Fix Contest test setup.
+- Restore Sevii grass encounters.
+- Update trade Pokemon habitats.
+- Fix tag publication.

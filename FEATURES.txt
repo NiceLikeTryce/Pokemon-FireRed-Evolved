@@ -12,10 +12,14 @@
 - Safari combines FireRed, LeafGreen and HGSS species at local Safari levels.
 - Original FireRed/LeafGreen habitats and version exclusives are preserved.
 - Farfetch'd uses Routes 12-13; ordinary Lickitung uses Cerulean Cave B1F.
+- Mr. Mime appears in Route 21 grass at Lv28-30 outside Night.
+- Jynx appears on Seafoam Islands B2F/B4F at Lv37-39.
+- Lickitung appears in Safari Zone East grass at Lv25 and Lv28.
 - All wild, gift, trade, trainer, Contest and Frontier Pokemon stay within #1-#251.
 - Incense breeding produces Marill or Wobbuffet; no Gen3 hatchlings.
 - Altering Cave supports Nintendo's eight Gen2 species.
 - Original FireRed Sevii Gen2 encounters are restored.
+- Sevii grass uses original FireRed species, levels and encounter odds.
 - Mixed wild pools preserve a 50/50 generation split.
 - Generation pools with 5+ species halve rates of 24% or higher.
 - Rare rates have a 5% floor within each generation.
