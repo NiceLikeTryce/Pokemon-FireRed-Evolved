@@ -1,3 +1,7 @@
-- Fix Contest visuals.
-- Fix blender berry selection.
-- Fit Contest dialogue.
+- Fix Frontier battles.
+- Fix party restoration.
+- Fix Frontier recordings.
+- Fit Frontier dialogue.
+- Fix clean CI setup.
+- Fix isolated CI paths.
+- Check Factory NPCs.

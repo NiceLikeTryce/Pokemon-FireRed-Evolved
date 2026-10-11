@@ -285,3 +285,11 @@
 - Contest move animations restore all interface panels.
 - Blender berry selection prevents unsafe cancellation.
 - Contest and blender dialogue fits native text boxes.
+
+- Frontier challenges preserve friendship and original parties.
+- Solo and linked Frontier battles use safe graphics memory.
+- NPC and linked multi battles use correct team halves.
+- Completed Frontier challenges clear paused status.
+- Palace battle recordings play without manual input.
+- Frontier dialogue fits native text boxes.
+- CI tests every Frontier entry format, level choice and lobby.
