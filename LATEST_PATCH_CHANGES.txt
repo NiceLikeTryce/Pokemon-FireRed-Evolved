@@ -1,2 +1,3 @@
-- Restore all Route24 tiles to vanilla.
-- Repair old Route24 saved tiles.
+- Automate builds, tests and releases.
+- Announce updates after publication.
+- Fix CI setup and recovery.

@@ -173,6 +173,8 @@
 - Existing saves, Pokemon and completed rewards are preserved.
 
 ## Patching and documentation
+- New game versions publish after automatic builds, emulator tests and patch checks pass.
+- Discord announces each new version after successful publication.
 - Clean US/English FireRed 1.0 and 1.1 have matching BPS patches.
 - Both patches produce the same verified game.
 - Free web links preload the latest matching patch.
