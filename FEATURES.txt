@@ -8,8 +8,12 @@
 - Rare trade-only Kanto species have wild habitats.
 - Gen2 wild Pokemon are available before Champion.
 - G/S/C Kanto species appear in equivalent habitats.
-- Gen2 placement respects original encounter levels; Skarmory appears at Lv27.
-- Gen2 Safari imports use Emerald levels.
+- Gen2 is spread across Kanto at typical G/S/C levels matching local Gen1 levels.
+- Safari combines FireRed, LeafGreen and HGSS species at local Safari levels.
+- Original FireRed/LeafGreen habitats and version exclusives are preserved.
+- Farfetch'd uses Routes 12-13; ordinary Lickitung uses Cerulean Cave B1F.
+- All wild, gift, trade, trainer, Contest and Frontier Pokemon stay within #1-#251.
+- Incense breeding produces Marill or Wobbuffet; no Gen3 hatchlings.
 - Altering Cave supports Nintendo's eight Gen2 species.
 - Original FireRed Sevii Gen2 encounters are restored.
 - Mixed wild pools preserve a 50/50 generation split.

@@ -1,3 +1,5 @@
-- Automate builds, tests and releases.
-- Announce updates after publication.
-- Fix CI setup and recovery.
+- Restore native habitats.
+- Spread Gen2 across Kanto.
+- Expand Safari roster.
+- Enforce #1-#251.
+- Fix Contest test setup.
