@@ -1,3 +1,3 @@
-- Restore Sevii grass encounters.
-- Update trade Pokemon habitats.
-- Fix tag publication.
+- Fix Contest visuals.
+- Fix blender berry selection.
+- Fit Contest dialogue.

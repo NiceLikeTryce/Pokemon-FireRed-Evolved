@@ -281,3 +281,7 @@
 - Contest introductions show the correct Pokemon immediately.
 - Followers keep moving during scripted contest sign-up.
 - Follower and lighting caches reduce running frame drops.
+
+- Contest move animations restore all interface panels.
+- Blender berry selection prevents unsafe cancellation.
+- Contest and blender dialogue fits native text boxes.
