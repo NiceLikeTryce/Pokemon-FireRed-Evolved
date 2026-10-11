@@ -186,7 +186,8 @@
 
 ## Secret Bases
 - Route maps have at most one indent; removed extras restore original terrain.
-- Keep 30 entrances across Kanto, islands and towns; limit numbered Routes to one each.
+- Route24 terrain and borders match vanilla; its berry planting spot stays invisible.
+- Keep 29 entrances across Kanto, islands and towns; limit numbered Routes to one each.
 - Outdoor roofs and ledges stay intact around Secret Base entrances.
 - SECRET POWER opens marked caves, trees and shrubs.
 - Brock gives TM43 Secret Power and explains Secret Bases.
@@ -228,13 +229,13 @@
 - Contest-related Celadon NPCs and maps remain reachable without blocking the Hall door.
 - The S.S. Anne remains docked after HM01; Bill gives Eevee and the ticket together.
 - Fishing punctuation and cave corner tiles are fixed; eight wall-corner indents were moved.
-- Lavender Town's Pokemon Center tile is restored; its Secret Base moved to Route 24.
+- Lavender Town's Pokemon Center and Route24/25 walls use original terrain.
 - Route 5 Day Care describes the Togepi gift only as an EGG.
 - Pallet Town's original ground tiles are restored; its north exit works normally.
 - Fly uses the correct player artwork before takeoff and after landing; its bird animation finishes normally.
-- Older saves receive corrected Celadon entrances and Route 11, 16 and 25 tiles.
+- Older saves receive corrected Celadon entrances and Route 11, 16, 24 and 25 tiles.
 - Gardening uses 57 hidden ground-berry spots.
-- Fourteen added spots use small native dark marks on clear route ground.
+- Thirteen added spots have native dark marks; Route24 keeps its invisible berry spot.
 - Collect the original berry, then check the same spot to plant, water and harvest.
 - JAIME gives the Goldeen Canteen with the Town Map, or on your next visit.
 - Key Items lists GOLDEEN CAN; dialogue and its description say GOLDEEN CANTEEN.

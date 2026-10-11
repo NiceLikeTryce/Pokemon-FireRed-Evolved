@@ -1,4 +1,2 @@
-- Restore Route25 wall and Cerulean's left tile.
-- Light only Factory yellow panels.
-- Fix Frontier text and Contest introductions.
-- Keep sign-up followers; reduce running lag.
+- Restore all Route24 tiles to vanilla.
+- Repair old Route24 saved tiles.
