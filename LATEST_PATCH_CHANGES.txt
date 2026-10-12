@@ -1,2 +1,2 @@
-- Fix NPC Multi party switching.
-- Refine loss tests.
+- Test double-battle effects.
+- Reuse completed checks.
