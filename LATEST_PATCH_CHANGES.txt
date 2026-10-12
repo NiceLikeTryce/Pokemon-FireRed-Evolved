@@ -1,1 +1,3 @@
-- Restore automatic Discord updates.
+- Preserve Dome's chosen lead.
+- Fix mixed-level link opponents.
+- Check party variations.

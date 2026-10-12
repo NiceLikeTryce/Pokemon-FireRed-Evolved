@@ -310,3 +310,7 @@
 - Wired graphics checks preserve both players' original parties.
 - CI reuses completed checks when their inputs are unchanged.
 - Published updates receive one confirmed, concise Discord announcement.
+
+- Battle Dome keeps your chosen lead.
+- Linked Open battles match both teams' levels.
+- Frontier party extremes, low PP and restoration checked.
