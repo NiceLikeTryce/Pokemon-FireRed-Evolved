@@ -1,3 +1,2 @@
-- Preserve Dome's chosen lead.
-- Fix mixed-level link opponents.
-- Check party variations.
+- Fix Pike room hints.
+- Check more Pike/Pyramid seeds.

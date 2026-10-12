@@ -314,3 +314,6 @@
 - Battle Dome keeps your chosen lead.
 - Linked Open battles match both teams' levels.
 - Frontier party extremes, low PP and restoration checked.
+
+- Pike hints include every eligible room type.
+- More Pike/Pyramid layouts and supplies checked.
