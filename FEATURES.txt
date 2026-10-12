@@ -293,3 +293,5 @@
 - Palace battle recordings play without manual input.
 - Frontier dialogue fits native text boxes.
 - CI tests every Frontier entry format, level choice and lobby.
+- Frontier boss introductions select the correct Brain teams.
+- CI checks every Brain's Symbols, BP, rematches and saved results.
