@@ -317,3 +317,6 @@
 
 - Pike hints include every eligible room type.
 - More Pike/Pyramid layouts and supplies checked.
+
+- Overlong local recordings preserve saved battles.
+- Long replays, replacement and playback interruptions checked.

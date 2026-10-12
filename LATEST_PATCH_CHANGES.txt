@@ -1,2 +1,2 @@
-- Fix Pike room hints.
-- Check more Pike/Pyramid seeds.
+- Protect overlong recordings.
+- Check long replays and replacement.
