@@ -309,3 +309,4 @@
 - CI stress-tests combined double-battle effects and Summary restoration.
 - Wired graphics checks preserve both players' original parties.
 - CI reuses completed checks when their inputs are unchanged.
+- Published updates receive one confirmed, concise Discord announcement.
