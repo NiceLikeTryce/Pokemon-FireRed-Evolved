@@ -295,3 +295,13 @@
 - CI tests every Frontier entry format, level choice and lobby.
 - Frontier boss introductions select the correct Brain teams.
 - CI checks every Brain's Symbols, BP, rematches and saved results.
+
+- Frontier difficulty stays capped during very long streaks.
+- Frontier best records survive losses and retirement.
+- Multi battle intros share trainer picture graphics safely.
+- Every battle AI has independent replacement state.
+- NPC partner menus use safe trainer names.
+- CI checks consecutive Frontier sets, retirement, losses and reloads.
+- Factory tests preserve legal rental history and recorded winning seeds.
+
+- NPC Multi party switching preserves each trainer's Pokemon.

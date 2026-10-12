@@ -1,2 +1,2 @@
-- Fix Frontier boss teams.
-- Test Brain rewards.
+- Fix NPC Multi party switching.
+- Refine loss tests.
