@@ -326,3 +326,5 @@
 
 - Interrupted saves recover coherent data.
 - Cable loss preserves parties and prevents duplicate BP.
+
+- Main adventure and early Gen2 captures checked.

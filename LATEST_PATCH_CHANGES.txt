@@ -1,4 +1,3 @@
-- Require trades for trade evolutions.
-- Add Crystal Kanto encounters.
-- Fix midnight berry growth.
-- Expand targeted QA.
+- Test the main adventure.
+- Check early Gen2 captures.
+- Preserve playable QA checkpoints.
