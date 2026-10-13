@@ -320,3 +320,6 @@
 
 - Overlong local recordings preserve saved battles.
 - Long replays, replacement and playback interruptions checked.
+
+- Interrupted saves recover coherent data.
+- Cable loss preserves parties and prevents duplicate BP.

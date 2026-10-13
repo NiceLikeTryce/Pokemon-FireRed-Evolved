@@ -1,2 +1,1 @@
-- Protect overlong recordings.
-- Check long replays and replacement.
+- Check interrupted saves and cable links.
