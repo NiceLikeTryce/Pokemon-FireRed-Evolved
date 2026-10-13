@@ -8,6 +8,7 @@
 - Rare trade-only Kanto species have wild habitats.
 - Gen2 wild Pokemon are available before Champion.
 - G/S/C Kanto species appear in equivalent habitats.
+- Crystal Kanto encounters supplement existing Gen2 habitats.
 - Gen2 is spread across Kanto at typical G/S/C levels matching local Gen1 levels.
 - Safari combines FireRed, LeafGreen and HGSS species at local Safari levels.
 - Original FireRed/LeafGreen habitats and version exclusives are preserved.
@@ -51,7 +52,8 @@
 ## Evolution and training
 - All Gen2 evolutions work before National Dex.
 - Bill offers animated trade-back evolutions at his Cerulean-area house.
-- Level37 trade-evolution alternatives remain available.
+- Trade evolutions require trading; Bill offers trade-back service.
+- Berry growth continues across midnight without losing elapsed time.
 - Held-item trade evolutions consume their required item.
 - Sun Stone evolves Eevee into Espeon; Moon Stone produces Umbreon.
 - Friendship Espeon uses 4:00 AM-5:59 PM; Umbreon uses 6:00 PM-3:59 AM.

@@ -1,2 +1,4 @@
-- Recover JAIME's delayed gifts.
-- Check feature interactions.
+- Require trades for trade evolutions.
+- Add Crystal Kanto encounters.
+- Fix midnight berry growth.
+- Expand targeted QA.
