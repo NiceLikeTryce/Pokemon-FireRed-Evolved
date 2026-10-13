@@ -1,1 +1,2 @@
-- Check Contest edge cases.
+- Recover JAIME's delayed gifts.
+- Check feature interactions.

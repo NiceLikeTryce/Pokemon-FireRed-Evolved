@@ -64,7 +64,7 @@
 - Celadon Department Store sells all 50 TMs.
 - Celadon 4F stocks all six stones and four non-stone evolution items; each non-stone costs ¥50,000.
 - Celadon also sells Sun Stones and Moon Stones.
-- Mt. Moon and Pokemon Mansion have visible Sun Stone pickups.
+- Sun Stones can be found in Mt. Moon and Pokemon Mansion.
 - Incoming trades reject Gen3 species and introduced items.
 
 - Gift nickname prompts identify the correct Pokemon.
@@ -87,7 +87,7 @@
 - Night trees give Ghost types a combined 25% share.
 - Tree sleepers follow Gen2 species/time rules with seven initial sleep turns.
 - Gastly has a 5% nighttime share in every grassy wild-encounter area.
-- Misdreavus uses Lv45 in suitable late-game trees.
+- Misdreavus uses Lv45 outside the Safari Zone.
 - Tree interactions work on every side, including Viridian Forest.
 - Strength retains its original boulder behavior.
 - Acro Bike supports wheelies, bunnyhops and jumping ledges both ways.
@@ -96,7 +96,7 @@
 
 ## Gifts and characters
 - The bedroom PC contains a Lucky Egg.
-- Bill gives Eevee on first meeting.
+- Bill gives Eevee and the S.S. Ticket after helping him.
 - Route5 Day Care gives a Togepi Egg on first successful interaction.
 - The final Viridian Forest Bug Catcher rewards TREE SHAKER.
 - Gym bonuses accompany badges and TM rewards.
@@ -248,6 +248,7 @@
 - Thirteen added spots have native dark marks; Route24 keeps its invisible berry spot.
 - Collect the original berry, then check the same spot to plant, water and harvest.
 - JAIME gives the Goldeen Canteen with the Town Map, or on your next visit.
+- Delayed Town Map and Canteen gifts remain available after Champion.
 - Key Items lists GOLDEEN CAN; dialogue and its description say GOLDEEN CANTEEN.
 - Berries grow by RTC, with stage watering, yields, regrowth and saved crop care.
 - Save statistics and confirmation frames keep separate correct colors.
