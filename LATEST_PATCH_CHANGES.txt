@@ -1,2 +1,1 @@
-- Add TRUCK and SAFFRON hints.
-- Give FLASH through Surge or aide.
+- Add custom Goldeen Canteen icon.

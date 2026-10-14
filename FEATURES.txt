@@ -344,3 +344,4 @@
 - Thirsty gate guards wish they could get a drink in SAFFRON.
 - Lt. Surge also gives HM05 FLASH after victory; Oak's aide remains another source.
 - Both FLASH providers share one receipt; either order gives only one HM05.
+- Goldeen Canteen has a custom white/orange Bag icon with a dark mouth and continuous orange outline.
