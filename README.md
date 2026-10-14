@@ -46,7 +46,7 @@ You need your own **clean US/English FireRed v1.0 or v1.1 ROM**.
 - **Hard Elite Four:** Oak's Challenge.
 - **Beat Oak's Challenge:** MYSTIC TICKET for Navel Rock's Ho-Oh/Lugia.
 - **Catch #1-150:** Mew under the truck.
-- **Catch #1-250:** Celebi's Faraway Island hide-and-seek.
+- **Catch #1-250:** Oak returns the GEN SYNC GS Ball; catch Celebi on Faraway Island. Only this ball works; it cannot be held or discarded.
 
 Still in **BETA**. [Report bugs or get help](https://github.com/NiceLikeTryce/Pokemon-FireRed-Evolved/issues).
 

@@ -1,2 +1,2 @@
-- Remove repeated ROM prompt.
-- Refresh cached page code.
+- Add Celebi's GEN SYNC ball quest.
+- Protect GS Ball from misuse.

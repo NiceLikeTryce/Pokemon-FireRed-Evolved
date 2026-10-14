@@ -126,6 +126,10 @@
 - Mew waits under the truck after catching #1-#150.
 - The truck moves without the removed truck sound.
 - Faraway Island unlocks after catching #1-#250 and Normal Champion.
+- Oak returns your original GS Ball after catching #1-#250. GS means GEN SYNC.
+- GS Ball syncs Celebi to our timeline; only it can catch Celebi, without fail.
+- GS Ball glows near Celebi and cannot be held, given away or discarded.
+- Other Pokemon reject GS Ball with Oak's reminder; the ball stays in your Bag.
 - Celebi uses Emerald's Mew hide-and-seek game and Radical Red walking art.
 - Faraway Island has proper tall-grass effects, cutting and music.
 - Legendary encounters remain available until caught.
