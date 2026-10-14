@@ -1,4 +1,1 @@
-- Fix Oak challenge controls.
-- Accept Acro Bike at Cycling Road.
-- Verify all 251 acquisitions.
-- Check Secret Base edge cases.
+- Auto-detect FireRed revision.

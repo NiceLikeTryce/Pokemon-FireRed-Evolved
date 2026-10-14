@@ -20,14 +20,10 @@
     </div>
     <h1>FireRed Evolved</h1>
     <p id="version">Loading the current patch&hellip;</p>
-    <nav aria-label="Original FireRed version">
-      <a id="base10" href="?base=1.0">FireRed v1.0</a>
-      <a id="base11" href="?base=1.1">FireRed v1.1</a>
-    </nav>
-    <section aria-label="Patch your game">
-      <h2 id="selected">Choose your original FireRed version</h2>
-      <p>The matching BPS attaches automatically.</p>
-      <label for="rom">1. Select your clean US/English FireRed ROM</label>
+    <section id="drop-zone" aria-label="Patch your game">
+      <h2 id="selected">Patch your game</h2>
+      <p>FireRed v1.0 or v1.1 is detected automatically.</p>
+      <label for="rom">1. Drop or select your clean US/English FireRed ROM</label>
       <input id="rom" type="file" accept=".gba" disabled>
       <button id="apply" disabled>2. Patch and download</button>
       <p id="status" role="status" aria-live="polite"></p>

@@ -17,54 +17,81 @@
     setTheme(theme);
     try { localStorage.setItem(themeKey, theme); } catch (_) { /* The toggle still works without storage. */ }
   });
-  const base = new URLSearchParams(location.search).get('base');
-  let manifest, source, patch, original, busy = false;
+  let manifest, patch, original, pendingFile, busy = false, checking = false, selection = 0;
+  const patches = new Map();
   const status = (text, state = '') => { $('status').textContent = text; $('status').dataset.state = state; };
   const digest = async (algorithm, bytes) => Array.from(new Uint8Array(await crypto.subtle.digest(algorithm, bytes)), b => b.toString(16).padStart(2, '0')).join('');
-  const refresh = () => { $('apply').disabled = !(original && patch) || busy; $('rom').disabled = !patch || busy; };
+  const refresh = () => { $('apply').disabled = !(original && patch) || busy || checking; $('rom').disabled = !manifest || busy; };
+  async function attachPatch(source) {
+    if (!patches.has(source.patch)) {
+      const promise = (async () => {
+        const download = await fetch(`assets/${source.patch}`);
+        if (!download.ok) throw new Error('Patch download failed. Select your ROM again to retry, or use the BPS downloads below.');
+        const bytes = await download.arrayBuffer();
+        if (await digest('SHA-256', bytes) !== source.patch_sha256) throw new Error('Patch verification failed. Please reload.');
+        const result = BPS.fromFile(new BinFile(bytes));
+        if (result.sourceSize !== 16777216 || result.targetSize !== manifest.target_size) throw new Error('Invalid BPS sizes.');
+        return result;
+      })();
+      patches.set(source.patch, promise);
+      promise.catch(() => patches.delete(source.patch));
+    }
+    return patches.get(source.patch);
+  }
   async function initialize() {
     try {
       const response = await fetch('release.json', {cache: 'no-store'});
       if (!response.ok) throw new Error('The current patch is unavailable. Please use the BPS downloads.');
-      manifest = await response.json();
-      if (!/^v0\.\d{2,}$/.test(manifest.version) || manifest.sources.length !== 2) throw new Error('Invalid patch information.');
+      const current = await response.json();
+      if (!/^v0\.\d{2,}$/.test(current.version) || !Array.isArray(current.sources) || current.sources.length !== 2
+          || new Set(current.sources.map(s => s.revision)).size !== 2
+          || !current.sources.every(s => ['v1.0', 'v1.1'].includes(s.revision) && /^[a-f0-9]{40}$/.test(s.base_sha1)
+            && /^[a-f0-9]{64}$/.test(s.patch_sha256) && /^[A-Za-z0-9_.-]+\.bps$/.test(s.patch))) throw new Error('Invalid patch information.');
+      manifest = current;
       $('version').textContent = `Game ${manifest.version}`;
       $('download').href = manifest.package_url;
-      if (!['1.0', '1.1'].includes(base)) { status('Choose FireRed v1.0 or v1.1 above.'); return; }
-      source = manifest.sources.find(s => s.revision === `v${base}`);
-      if (!source || !/^[A-Za-z0-9_.-]+\.bps$/.test(source.patch)) throw new Error('Invalid patch selection.');
-      $(`base${base === '1.0' ? '10' : '11'}`).setAttribute('aria-current', 'page');
-      $('selected').textContent = `For FireRed v${base}`;
-      status('Attaching your BPS patch\u2026');
-      const download = await fetch(`assets/${source.patch}`);
-      if (!download.ok) throw new Error('Patch download failed. Please use the BPS downloads below.');
-      const bytes = await download.arrayBuffer();
-      if (await digest('SHA-256', bytes) !== source.patch_sha256) throw new Error('Patch verification failed. Please reload.');
-      patch = BPS.fromFile(new BinFile(bytes));
-      if (patch.sourceSize !== 16777216 || patch.targetSize !== manifest.target_size) throw new Error('Invalid BPS sizes.');
-      $('selected').dataset.patch = source.patch;
-      status(`BPS attached for FireRed v${base}. Select your original clean ROM.`, 'success');
+      status('Drop or select your original clean FireRed ROM.');
       refresh();
-    } catch (error) { patch = null; refresh(); status(error.message, 'error'); }
+      if (pendingFile) { const file = pendingFile; pendingFile = null; await checkROM(file); }
+    } catch (error) { manifest = null; patch = null; refresh(); status(error.message, 'error'); }
   }
-  $('rom').addEventListener('change', async () => {
-    original = null; refresh();
-    const file = $('rom').files[0];
-    if (!file || !source) return;
+  async function checkROM(file) {
+    if (busy) return;
+    if (!manifest) { pendingFile = file; status('Loading patch information\u2026'); return; }
+    const current = ++selection;
+    original = null; patch = null; checking = Boolean(file);
+    $('selected').textContent = 'Patch your game'; delete $('selected').dataset.patch;
+    refresh();
+    if (!file) { status('Drop or select your original clean FireRed ROM.'); return; }
     try {
       status('Checking your ROM\u2026');
-      if (file.size !== 16777216) throw new Error(`Use your original clean US/English FireRed v${base} ROM.`);
+      if (file.size !== 16777216) throw new Error('Use your original clean US/English FireRed v1.0 or v1.1 ROM.');
       const bytes = await file.arrayBuffer();
       const sha1 = await digest('SHA-1', bytes);
-      if (sha1 !== source.base_sha1) {
-        const other = manifest.sources.find(s => s.base_sha1 === sha1);
-        if (other) throw new Error(`This ROM is FireRed ${other.revision}. Select that version above.`);
-        throw new Error(`This is not a clean US/English FireRed v${base} ROM. Use the original, unpatched file.`);
-      }
-      original = new BinFile(bytes);
-      if (!patch.validateSource(original)) throw new Error('The ROM does not match this BPS patch.');
-      status('ROM verified. Ready to patch.', 'success'); refresh();
-    } catch (error) { original = null; refresh(); status(error.message, 'error'); }
+      if (current !== selection) return;
+      const source = manifest.sources.find(s => s.base_sha1 === sha1);
+      if (!source) throw new Error('This is not a clean US/English FireRed v1.0 or v1.1 ROM. Use the original, unpatched file.');
+      $('selected').textContent = `Detected FireRed ${source.revision}`;
+      status(`FireRed ${source.revision} detected. Attaching the matching patch\u2026`);
+      const matchingPatch = await attachPatch(source);
+      if (current !== selection) return;
+      const candidate = new BinFile(bytes);
+      if (!matchingPatch.validateSource(candidate)) throw new Error('The ROM does not match this BPS patch.');
+      original = candidate; patch = matchingPatch; $('selected').dataset.patch = source.patch;
+      status(`FireRed ${source.revision} verified. Ready to patch.`, 'success');
+    } catch (error) {
+      if (current !== selection) return;
+      original = null; patch = null; $('selected').textContent = 'Patch your game';
+      status(error.message, 'error');
+    } finally { if (current === selection) { checking = false; refresh(); } }
+  }
+  $('rom').addEventListener('change', () => checkROM($('rom').files[0]));
+  $('drop-zone').addEventListener('dragover', event => { event.preventDefault(); $('drop-zone').dataset.dragging = 'true'; });
+  $('drop-zone').addEventListener('dragleave', () => { delete $('drop-zone').dataset.dragging; });
+  $('drop-zone').addEventListener('drop', event => {
+    event.preventDefault(); delete $('drop-zone').dataset.dragging;
+    if (!busy) $('rom').files = event.dataTransfer.files;
+    return checkROM(event.dataTransfer.files[0]);
   });
   $('apply').addEventListener('click', async () => {
     if (!original || !patch || busy) return;
