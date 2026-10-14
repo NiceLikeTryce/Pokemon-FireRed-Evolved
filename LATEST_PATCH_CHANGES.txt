@@ -1,2 +1,1 @@
-- Add Celebi's GEN SYNC ball quest.
-- Protect GS Ball from misuse.
+- Revise Oak's parcel dialogue.

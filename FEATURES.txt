@@ -339,3 +339,4 @@
 - Secret Base duplicate menus, furniture and daily rewards checked.
 - Oak recalls your first partner once after his challenge.
 - The web patcher automatically detects FireRed v1.0 or v1.1.
+- Oak receives the gold and silver device he made with Bill.
