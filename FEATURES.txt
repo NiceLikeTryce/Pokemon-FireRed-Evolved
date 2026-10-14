@@ -333,4 +333,5 @@
 - Acro Bike opens both Cycling Road gates.
 - All 251 acquisitions verified through an earned playthrough.
 - Secret Base duplicate menus, furniture and daily rewards checked.
+- Oak recalls your first partner once after his challenge.
 - The web patcher automatically detects FireRed v1.0 or v1.1.
