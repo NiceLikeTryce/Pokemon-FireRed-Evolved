@@ -1,1 +1,2 @@
-- Revise Oak's parcel dialogue.
+- Add TRUCK and SAFFRON hints.
+- Give FLASH through Surge or aide.

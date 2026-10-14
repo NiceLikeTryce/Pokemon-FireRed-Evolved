@@ -31,7 +31,7 @@ You need your own **clean US/English FireRed v1.0 or v1.1 ROM**.
 - **Pokédex Habitat Guide:** view acquisition locations, odds, levels and unlock conditions in-game.
 - **A changing world:** real-time day/night & weather.
 - **TREE SHAKER:** mimics Gen2 Headbutt Tree mechanic.
-- **Early gifts:** bedroom Lucky Egg, Tree Shaker, Bill's Eevee, and gym bonus rewards.
+- **Early gifts:** bedroom Lucky Egg, Tree Shaker, Bill's Eevee, gym bonus rewards and Lt. Surge's FLASH.
 - **Gym Rewards:** bonus items and the strongest same-type TMs; Brock keeps Secret Power.
 - **Easier Evolutions:** Bill's trade-backs, Eevee Sun/Moon Stones and missed-move learning.
 - **Better training:** IV/EV viewer, longer Repels, reuse Repels, faster eggs with Magma Armor/Flame Body.
