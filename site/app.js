@@ -50,7 +50,7 @@
       manifest = current;
       $('version').textContent = `Game ${manifest.version}`;
       $('download').href = manifest.package_url;
-      status('Drop or select your original clean FireRed ROM.');
+      status('');
       refresh();
       if (pendingFile) { const file = pendingFile; pendingFile = null; await checkROM(file); }
     } catch (error) { manifest = null; patch = null; refresh(); status(error.message, 'error'); }
@@ -62,7 +62,7 @@
     original = null; patch = null; checking = Boolean(file);
     $('selected').textContent = 'Patch your game'; delete $('selected').dataset.patch;
     refresh();
-    if (!file) { status('Drop or select your original clean FireRed ROM.'); return; }
+    if (!file) { status(''); return; }
     try {
       status('Checking your ROM\u2026');
       if (file.size !== 16777216) throw new Error('Use your original clean US/English FireRed v1.0 or v1.1 ROM.');

@@ -1,2 +1,1 @@
-- Add Oak's one-time lab memory.
-- Auto-detect FireRed revision.
+- Remove repeated ROM prompt.
