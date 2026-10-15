@@ -1,2 +1,2 @@
 - Fix stale NPCs after build changes.
-- QA endurance and save round trips.
+- QA decorations, graphics, starter outcomes and shops.
