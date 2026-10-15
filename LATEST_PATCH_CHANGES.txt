@@ -1,3 +1,2 @@
-- Fix Contest Lady gift responses.
-- Fix fifth-gift stories.
-- Audit all contest/Pokéblock options.
+- Fix canceled-evolution item loss.
+- QA evolution retries and Safari endings.

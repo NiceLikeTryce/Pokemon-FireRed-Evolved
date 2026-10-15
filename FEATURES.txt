@@ -351,3 +351,4 @@
 - Berry Pouch titles display centered in their visible banner.
 - Pokéblocks can be blended in consecutive rounds.
 - Contest Lady replies match the chosen block and handle five-gift stories.
+- Canceling a level-up evolution preserves its required held item.
