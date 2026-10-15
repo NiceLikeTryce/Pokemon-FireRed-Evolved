@@ -1,2 +1,3 @@
 - Fix cable trade-evolution freeze.
-- QA retail FireRed cable trades.
+- QA evolutions, eggs, GS Ball and bases.
+- QA English retail cable trades.
