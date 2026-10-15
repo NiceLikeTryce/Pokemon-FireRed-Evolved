@@ -1,1 +1,2 @@
-- Delay follower ledge jumps until your next step.
+- Fix fishing dots and registered Berry Pouch graphics.
+- Check Acro Bike interactions.
