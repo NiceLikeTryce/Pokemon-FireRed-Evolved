@@ -1,3 +1,1 @@
-- Fix cable trade-evolution freeze.
-- QA evolutions, eggs, GS Ball and bases.
-- QA English retail cable trades.
+- Fix copied treetop foreground layers worldwide.

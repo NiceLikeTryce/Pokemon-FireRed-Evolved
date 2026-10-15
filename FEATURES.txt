@@ -356,3 +356,4 @@
 - Pewter garden no longer has a wandering NPC.
 - Cable trade evolutions wait safely for their sound effect to finish.
 - Cable trades checked with English FireRed, LeafGreen, Ruby, Sapphire and Emerald.
+- Matching pointed-tree canopies consistently use foreground depth worldwide.
