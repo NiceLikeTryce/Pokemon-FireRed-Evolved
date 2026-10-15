@@ -357,3 +357,5 @@
 - Cable trade evolutions wait safely for their sound effect to finish.
 - Cable trades checked with English FireRed, LeafGreen, Ruby, Sapphire and Emerald.
 - Matching pointed-tree canopies consistently use foreground depth worldwide.
+- Gen1/Gen2 eggs trade and hatch with original English GBA games.
+- Followers wait at ledges, then jump after your next step.

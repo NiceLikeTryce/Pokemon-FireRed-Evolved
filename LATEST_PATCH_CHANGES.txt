@@ -1,1 +1,1 @@
-- Fix copied treetop foreground layers worldwide.
+- Delay follower ledge jumps until your next step.
