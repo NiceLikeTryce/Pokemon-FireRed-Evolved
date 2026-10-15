@@ -353,3 +353,4 @@
 - Contest Lady replies match the chosen block and handle five-gift stories.
 - Canceling a level-up evolution preserves its required held item.
 - NPCs restore correctly when switching between main and berry previews.
+- Pewter garden no longer has a wandering NPC.

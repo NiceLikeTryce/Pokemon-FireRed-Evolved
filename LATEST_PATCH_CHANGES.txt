@@ -1,2 +1,1 @@
-- Fix stale NPCs after build changes.
-- QA decorations, graphics, starter outcomes and shops.
+- Remove Pewter garden NPC.
