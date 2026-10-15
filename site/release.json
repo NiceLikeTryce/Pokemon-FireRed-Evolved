@@ -1,22 +1,22 @@
 {
-  "version": "v0.168",
+  "version": "v0.169",
   "target_size": 16777216,
-  "target_sha1": "887e3e18186e306e5eaf504a5105d49cf7fd6e57",
-  "target_sha256": "456396bc530b2d01379e30d0b60b5930d564ba486f5e79765e16a5db1326ae86",
+  "target_sha1": "c3b862b116fe087d6cbc5b51ffcf38d1e618a50c",
+  "target_sha256": "445fe1f7803514c07182e0adb39c08e6d43bb858500e5a872a78268efd92bc15",
   "sources": [
     {
       "revision": "v1.0",
       "base_sha1": "41cb23d8dccc8ebd7c649cd8fbb58eeace6e2fdc",
-      "patch": "FireRed_Evolved_v0.168_from_BPRE_USA.bps",
-      "patch_sha256": "2cd3570d432de444fec4044cb5becb705aea77e5f60fc66440e7dd6ecdc5e2a3"
+      "patch": "FireRed_Evolved_v0.169_from_BPRE_USA.bps",
+      "patch_sha256": "3b64f6edc46dc2f678e3a2fe5ec233fcda54f44ec5309214c0a90666f4095b50"
     },
     {
       "revision": "v1.1",
       "base_sha1": "dd5945db9b930750cb39d00c84da8571feebf417",
-      "patch": "FireRed_Evolved_v0.168_from_BPRE_USA_Rev1.bps",
-      "patch_sha256": "4315234a6e675995c7dd4225085226ab70d7462fdc7c1a373b9a7a1a0e0f8445"
+      "patch": "FireRed_Evolved_v0.169_from_BPRE_USA_Rev1.bps",
+      "patch_sha256": "36961674ddd7ee43009dac8d3eea12f7bb337b270ac42cd032d59fa23bf03d68"
     }
   ],
-  "asset_root": "https://github.com/NiceLikeTryce/Pokemon-FireRed-Evolved/releases/download/game-v0.168",
+  "asset_root": "https://github.com/NiceLikeTryce/Pokemon-FireRed-Evolved/releases/download/game-v0.169",
   "package_url": "https://github.com/NiceLikeTryce/Pokemon-FireRed-Evolved/releases/latest"
 }

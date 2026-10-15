@@ -1,6 +1,3 @@
-- Restore level-37 trade evolutions.
-- Fix pause-menu movement.
-- Add wooden mallet icon.
-- Shorten JAIME dialogue.
-- Fix Berry Pouch heading.
-- Fix repeat Pokéblock blending.
+- Fix Contest Lady gift responses.
+- Fix fifth-gift stories.
+- Audit all contest/Pokéblock options.
