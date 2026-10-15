@@ -1,1 +1,2 @@
-- Remove Pewter garden NPC.
+- Fix cable trade-evolution freeze.
+- QA retail FireRed cable trades.

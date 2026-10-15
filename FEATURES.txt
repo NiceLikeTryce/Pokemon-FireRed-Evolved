@@ -354,3 +354,4 @@
 - Canceling a level-up evolution preserves its required held item.
 - NPCs restore correctly when switching between main and berry previews.
 - Pewter garden no longer has a wandering NPC.
+- Cable trade evolutions wait safely for their sound effect to finish.
