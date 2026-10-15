@@ -1,2 +1,2 @@
-- Fix canceled-evolution item loss.
-- QA evolution retries and Safari endings.
+- Fix stale NPCs after build changes.
+- QA endurance and save round trips.
