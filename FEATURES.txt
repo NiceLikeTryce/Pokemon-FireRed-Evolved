@@ -52,7 +52,7 @@
 ## Evolution and training
 - All Gen2 evolutions work before National Dex.
 - Bill offers animated trade-back evolutions at his Cerulean-area house.
-- Trade evolutions require trading; Bill offers trade-back service.
+- Trade evolutions also work at level 37; item-based ones require their held item.
 - Berry growth continues across midnight without losing elapsed time.
 - Held-item trade evolutions consume their required item.
 - Sun Stone evolves Eevee into Espeon; Moon Stone produces Umbreon.
@@ -345,3 +345,8 @@
 - Lt. Surge also gives HM05 FLASH after victory; Oak's aide remains another source.
 - Both FLASH providers share one receipt; either order gives only one HM05.
 - Goldeen Canteen has a custom white/orange Bag icon with a dark mouth and continuous orange outline.
+- TREE SHAKER uses a wooden mallet icon with a green leaf emblem.
+- JAIME's regular greeting skips the Town Map question.
+- Pause menus prevent walking until closed.
+- Berry Pouch titles display centered in their visible banner.
+- Pokéblocks can be blended in consecutive rounds.

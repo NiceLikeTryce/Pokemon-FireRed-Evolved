@@ -1,1 +1,6 @@
-- Add custom Goldeen Canteen icon.
+- Restore level-37 trade evolutions.
+- Fix pause-menu movement.
+- Add wooden mallet icon.
+- Shorten JAIME dialogue.
+- Fix Berry Pouch heading.
+- Fix repeat Pokéblock blending.
