@@ -1,3 +1,2 @@
-- Merge approved berry beds and Canteen updates.
-- Move Johto starters to Safari at Lv5.
-- Restore vanilla Sevii encounters; keep activated Altering Cave.
+- Require the S.S. Ticket for dock entry.
+- Keep earned dock access permanently open.
