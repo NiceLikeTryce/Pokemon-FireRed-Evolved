@@ -1,3 +1,2 @@
-- Restore vanilla dock/Celadon Surf and fishing.
-- Add Slugma, Magby and nighttime Houndoom to Mansion.
-- Add Elekid and Ampharos to Power Plant.
+- Restore vanilla Route2 Diglett's Cave facade.
+- Correct its tiles in older saved views.
