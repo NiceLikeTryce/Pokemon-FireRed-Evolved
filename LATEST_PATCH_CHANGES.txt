@@ -1,2 +1,3 @@
-- Require the S.S. Ticket for dock entry.
-- Keep earned dock access permanently open.
+- Restore vanilla dock/Celadon Surf and fishing.
+- Add Slugma, Magby and nighttime Houndoom to Mansion.
+- Add Elekid and Ampharos to Power Plant.

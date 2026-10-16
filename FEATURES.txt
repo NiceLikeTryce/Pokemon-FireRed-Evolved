@@ -144,6 +144,8 @@
 - Oak leaves his lab until the challenge is beaten; JAIME gives a Cerulean hint.
 - Beating Oak's Challenge awards MYSTIC TICKET for Ho-Oh/Lugia at Navel Rock.
 - Oak's ratings, welcome, regional reminders and reward dialogue are cleaned up.
+- Dock and Celadon Surf/fishing use vanilla FireRed encounters at all times.
+- Mansion adds Slugma, Magby and nighttime Houndoom; Power Plant adds Elekid and Ampharos.
 - The sailor offers one ferry menu; S.S. Anne dock access requires the ticket and stays open once earned.
 - Ferry destinations follow the truck requirement, passes and island tickets.
 
