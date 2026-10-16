@@ -207,6 +207,7 @@
 - Route24 terrain and borders match vanilla; its berry planting spot stays invisible.
 - Keep 28 entrances across Kanto, islands and towns; limit numbered Routes to one each.
 - Outdoor roofs and ledges stay intact around Secret Base entrances.
+- Cave and shrub entrances use straight cliff faces; older saves clear their moved markers.
 - SECRET POWER opens marked caves, trees and shrubs.
 - Brock gives TM43 Secret Power and explains Secret Bases.
 - TM43 Secret Power costs ¥1,000 at Celadon Department Store 2F.
@@ -382,3 +383,4 @@
 - Registered Berry Pouch opens with clean graphics.
 - Chikorita lives in Safari Center, Cyndaquil in East, and Totodile in West, all at Lv5.
 - Route2 Diglett's Cave facade uses vanilla tiles, including older saved views.
+- Followers show a question mark after five idle seconds waiting at a ledge, once per wait.

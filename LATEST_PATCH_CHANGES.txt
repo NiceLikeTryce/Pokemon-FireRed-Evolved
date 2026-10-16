@@ -1,2 +1,3 @@
-- Restore vanilla Route2 Diglett's Cave facade.
-- Correct its tiles in older saved views.
+- Fix Secret Base placements and old saved tiles.
+- Guard Secret Base visuals in CI.
+- Show ? after five seconds of follower ledge waiting.
