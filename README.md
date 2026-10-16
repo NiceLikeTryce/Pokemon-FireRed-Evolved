@@ -23,10 +23,11 @@ You need your own **clean US/English FireRed v1.0 or v1.1 ROM**.
 - **Celadon Contests:** five categories, four ranks, ribbons and paintings.
 - **Pokéblocks:** blend berries with NPCs or link partners, then feed Pokemon.
 - **Followers:** partners jump ledges, stay during menus and dialogue, and hide during NPC crossings.
-- **Berry gardening:** plant, water and harvest at 57 hidden berry spots, with 13 new dark marks on open route ground.
+- **Berry gardening:** three beds in Pallet/Pewter plus 57 hidden spots; plant, water with the Goldeen Canteen and harvest.
 - **Berry Forest berries:** ground berries respawn in half the usual steps.
 - **Mirage Island:** unlocked after Normal Champion, with Mom's hint and ferry access.
-- **More encounters:** Altering Cave and Safari Zone supports Gen2 PKMN.
+- **Johto starters:** Safari Zone grass at Lv5: Chikorita Center, Cyndaquil East, Totodile West.
+- **Sevii encounters:** vanilla FireRed tables; Altering Cave keeps its activated Gen2 roster.
 - **Bookcase hints:** reveal Gen2 PKMN locations by searching bookcases.
 - **Pokédex Habitat Guide:** view acquisition locations, odds, levels and unlock conditions in-game.
 - **A changing world:** real-time day/night & weather.

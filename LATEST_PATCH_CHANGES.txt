@@ -1,2 +1,3 @@
-- Fix fishing dots and registered Berry Pouch graphics.
-- Check Acro Bike interactions.
+- Merge approved berry beds and Canteen updates.
+- Move Johto starters to Safari at Lv5.
+- Restore vanilla Sevii encounters; keep activated Altering Cave.

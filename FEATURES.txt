@@ -2,7 +2,7 @@
 
 ## Pokemon and Pokedex
 - All 251 Gen1 and Gen2 Pokemon are obtainable.
-- FireRed and LeafGreen wild rosters are combined.
+- FireRed and LeafGreen wild rosters are combined outside the vanilla FireRed Sevii Islands.
 - Itemless wild Pokemon have a 25% berry chance; Enigma has the rarest weight.
 - Gen1 starters have wild encounters after Normal Champion.
 - Rare trade-only Kanto species have wild habitats.
@@ -10,7 +10,7 @@
 - G/S/C Kanto species appear in equivalent habitats.
 - Crystal Kanto encounters supplement existing Gen2 habitats.
 - Gen2 is spread across Kanto at typical G/S/C levels matching local Gen1 levels.
-- Safari combines FireRed, LeafGreen and HGSS species at local Safari levels.
+- Safari combines FireRed, LeafGreen and HGSS species; Johto starters appear at Lv5.
 - Original FireRed/LeafGreen habitats and version exclusives are preserved.
 - Farfetch'd uses Routes 12-13; ordinary Lickitung uses Cerulean Cave B1F.
 - Mr. Mime appears in Route 21 grass at Lv28-30 outside Night.
@@ -20,7 +20,7 @@
 - Incense breeding produces Marill or Wobbuffet; no Gen3 hatchlings.
 - Altering Cave supports Nintendo's eight Gen2 species.
 - Original FireRed Sevii Gen2 encounters are restored.
-- Sevii grass uses original FireRed species, levels and encounter odds.
+- All Sevii wild tables use vanilla FireRed species, levels and odds; activated Altering Cave is unchanged.
 - Mixed wild pools preserve a 50/50 generation split.
 - Generation pools with 5+ species halve rates of 24% or higher.
 - Rare rates have a 5% floor within each generation.
@@ -116,7 +116,7 @@
 - Celadon's tea lady gives TOASTED TEA after Normal Champion.
 - The tea lady retains her Pallet Town girl reference.
 - JAIME exchanges TOASTED TEA for Leftovers.
-- JAIME has new introductions, TEA/culture dialogue and friendship grooming.
+- JAIME has new introductions, TEA/culture dialogue, friendship grooming and brief rest advice.
 - JAIME's friendship advice omits the speaker label.
 - Pallet's JAIME house, plants and MOOM's Persian scenes are updated.
 - Full bags or storage leave unclaimed gifts available for retry.
@@ -344,20 +344,38 @@
 - Thirsty gate guards wish they could get a drink in SAFFRON.
 - Lt. Surge also gives HM05 FLASH after victory; Oak's aide remains another source.
 - Both FLASH providers share one receipt; either order gives only one HM05.
-- Goldeen Canteen has a custom white/orange Bag icon with a dark mouth and continuous orange outline.
-- TREE SHAKER uses a wooden mallet icon with a green leaf emblem.
+- Goldeen Canteen has a white/orange Bag icon, black outline and slimmer belly.
+- Its short white spear horn points northwest.
+- Branch preview adds two three-plot beds with rounded soil and plain grass near the top of Pewter's garden.
+- An approved single-bed template preserves rounded soil, colors, spacing and interaction references.
+- Branch preview adds the approved three-plot bed in Pallet Town's bottom-left corner.
 - JAIME's regular greeting skips the Town Map question.
+- The wandering NPC is removed from Pewter's berry garden.
+- The Goldeen Canteen gift explains collecting, planting and watering garden berries.
+- TREE SHAKER uses a wooden mallet icon with a green leaf emblem.
+- Berry-bed backgrounds reveal native grass and shadows without rectangular seams.
+- JAIME introduces her Canteen gift with a caring berry-growing message.
+- Watering effects stay above garden soil.
+- Pallet berry canopies appear in front of the player and follower.
 - Pause menus prevent walking until closed.
 - Berry Pouch titles display centered in their visible banner.
 - Pokéblocks can be blended in consecutive rounds.
 - Contest Lady replies match the chosen block and handle five-gift stories.
 - Canceling a level-up evolution preserves its required held item.
 - NPCs restore correctly when switching between main and berry previews.
+- Three berry beds in Pallet and Pewter have independent planting, watering and saved growth.
 - Pewter garden no longer has a wandering NPC.
 - Cable trade evolutions wait safely for their sound effect to finish.
 - Cable trades checked with English FireRed, LeafGreen, Ruby, Sapphire and Emerald.
+- Planting menus clear old map graphics before showing berries.
+- Pallet plants use normal depth; border treetops cover walking feet.
+- Standing south of any berry plant places the player in front of it.
+- Watering dismounts bikes and finishes before returning control.
+- JAIME has new introductions, TEA/culture dialogue and friendship grooming.
+- Goldeen Canteen has a custom Bag icon with a black outline and white spear-shaped horn.
 - Matching pointed-tree canopies consistently use foreground depth worldwide.
 - Gen1/Gen2 eggs trade and hatch with original English GBA games.
 - Followers wait at ledges, then jump after your next step.
 - Fishing dots display correctly.
 - Registered Berry Pouch opens with clean graphics.
+- Chikorita lives in Safari Center, Cyndaquil in East, and Totodile in West, all at Lv5.
