@@ -1,3 +1,2 @@
-- Fix Secret Base placements and old saved tiles.
-- Guard Secret Base visuals in CI.
-- Show ? after five seconds of follower ledge waiting.
+- Add berry beds in Four Island, Cerulean City and Route10.
+- Remove the nearby hidden Nanab berry spot.

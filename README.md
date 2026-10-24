@@ -23,7 +23,7 @@ You need your own **clean US/English FireRed v1.0 or v1.1 ROM**.
 - **Celadon Contests:** five categories, four ranks, ribbons and paintings.
 - **Pokéblocks:** blend berries with NPCs or link partners, then feed Pokemon.
 - **Followers:** partners jump ledges, stay during menus and dialogue, and hide during NPC crossings.
-- **Berry gardening:** three beds in Pallet/Pewter plus 57 hidden spots; plant, water with the Goldeen Canteen and harvest.
+- **Berry gardening:** six beds in Pallet, Pewter, Four Island, Cerulean and Route 10, plus 56 hidden spots; plant, water with the Goldeen Canteen and harvest.
 - **Berry Forest berries:** ground berries respawn in half the usual steps.
 - **Mirage Island:** unlocked after Normal Champion, with Mom's hint and ferry access.
 - **Johto starters:** Safari Zone grass at Lv5: Chikorita Center, Cyndaquil East, Totodile West.

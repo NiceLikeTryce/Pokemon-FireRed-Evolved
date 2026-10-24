@@ -58,13 +58,13 @@
 - Sun Stone evolves Eevee into Espeon; Moon Stone produces Umbreon.
 - Friendship Espeon uses 4:00 AM-5:59 PM; Umbreon uses 6:00 PM-3:59 AM.
 - Stone and Gen2 evolutions offer missed level-up moves.
-- Evolution scenes display the evolved Pokémon's full sprite.
+- Evolution scenes display the evolved PokÃ©mon's full sprite.
 - SELECT on Summary Skills cycles Stats, IVs and EVs.
 - Repels last longer and offer automatic reuse prompts.
 - Magma Armor and Flame Body speed up egg hatching.
 - Move tutors can teach repeatedly; normal eligibility and costs remain.
 - Celadon Department Store sells all 50 TMs.
-- Celadon 4F stocks all six stones and four non-stone evolution items; each non-stone costs ¥50,000.
+- Celadon 4F stocks all six stones and four non-stone evolution items; each non-stone costs Â¥50,000.
 - Celadon also sells Sun Stones and Moon Stones.
 - Sun Stones can be found in Mt. Moon and Pokemon Mansion.
 - Incoming trades reject Gen3 species and introduced items.
@@ -77,6 +77,7 @@
 - Selected NPC dialogue changes with the time of day.
 - Outdoor weather includes restored effects and Ember Spa fog.
 - Berry Forest ground berries respawn in 750 steps, half the original time.
+- Berry gardens in Pallet Town, Pewter City, Four Island, Cerulean City and Route 10 support planting, watering and harvest.
 - Mirage Island unlocks after Normal Champion with Mom hints and a Vermilion ferry option.
 - Mirage Island keeps Gen2 baby encounters and rare berries.
 - Kanto and Frontier windows light correctly at night.
@@ -102,7 +103,7 @@
 - Route5 Day Care gives a Togepi Egg on first successful interaction.
 - The final Viridian Forest Bug Catcher rewards TREE SHAKER.
 - Gym bonuses accompany badges and TM rewards.
-- Viridian City Mart sells Rare Candy and Master Ball for ¥0.
+- Viridian City Mart sells Rare Candy and Master Ball for Â¥0.
 - Gym TMs use the highest base power of their type; Brock keeps Secret Power.
 - Misty gives Water Pulse; Surge gives Thunder; Erika gives SolarBeam.
 - Koga gives Sludge Bomb; Sabrina gives Psychic; Blaine gives Overheat; Giovanni gives Earthquake.
@@ -182,7 +183,7 @@
 - Battle Tower's whole door and all Ranking Hall panes light at night.
 - Battle Factory lights only its yellow panels; white side strips stay unlit.
 - Lavender Pokemon Tower's two vertical side lights are disabled.
-- Followers keep their colors in Poké Mart map previews.
+- Followers keep their colors in PokÃ© Mart map previews.
 - Power Plant doors and Silph roof layering are repaired.
 - Faraway music overlap and tall-grass rendering are fixed.
 - Beast sheets and tall-grass frames rebuild correctly from source art.
@@ -210,9 +211,9 @@
 - Cave and shrub entrances use straight cliff faces; older saves clear their moved markers.
 - SECRET POWER opens marked caves, trees and shrubs.
 - Brock gives TM43 Secret Power and explains Secret Bases.
-- TM43 Secret Power costs ¥1,000 at Celadon Department Store 2F.
+- TM43 Secret Power costs Â¥1,000 at Celadon Department Store 2F.
 - All 50 TMs are sold at Celadon Department Store 2F.
-- Celadon Department Store 4F sells all 120 decorations; unique award ornaments cost ¥50,000.
+- Celadon Department Store 4F sells all 120 decorations; unique award ornaments cost Â¥50,000.
 - A Celadon collector swaps stored decorations.
 - Decorate, put away, discard, pack up and move bases.
 - Base PCs protect ten registered friend hideouts.
@@ -253,7 +254,7 @@
 - Pallet Town's original ground tiles are restored; its north exit works normally.
 - Fly uses the correct player artwork before takeoff and after landing; its bird animation finishes normally.
 - Older saves receive corrected Celadon entrances and Route 2, 11, 16, 24 and 25 tiles.
-- Gardening uses 57 hidden ground-berry spots.
+- Gardening uses 56 hidden ground-berry spots.
 - Thirteen added spots have native dark marks; Route24 keeps its invisible berry spot.
 - Collect the original berry, then check the same spot to plant, water and harvest.
 - JAIME gives the Goldeen Canteen with the Town Map, or on your next visit.
@@ -362,11 +363,11 @@
 - Pallet berry canopies appear in front of the player and follower.
 - Pause menus prevent walking until closed.
 - Berry Pouch titles display centered in their visible banner.
-- Pokéblocks can be blended in consecutive rounds.
+- PokÃ©blocks can be blended in consecutive rounds.
 - Contest Lady replies match the chosen block and handle five-gift stories.
 - Canceling a level-up evolution preserves its required held item.
 - NPCs restore correctly when switching between main and berry previews.
-- Three berry beds in Pallet and Pewter have independent planting, watering and saved growth.
+- Six berry beds in Pallet, Pewter, Four Island, Cerulean and Route 10 have independent planting, watering and saved growth.
 - Pewter garden no longer has a wandering NPC.
 - Cable trade evolutions wait safely for their sound effect to finish.
 - Cable trades checked with English FireRed, LeafGreen, Ruby, Sapphire and Emerald.
