@@ -403,3 +403,6 @@
 - Three Island has two berry plants behind its Mart.
 - Watered stage1 mounds darken throughout and show a visible dark soil rim; later stages retain a small root patch until the next growth stage.
 - Viridian Mart's regular clerk stocks Poke Balls, Potions, Antidotes and Paralyze Heals.
+- Berry plants keep their normal colors and animations after battles.
+- Grass no longer turns into dark squares after encounters.
+- Berry-picking jingles finish before dialogue advances; watering uses lower blue ripples.

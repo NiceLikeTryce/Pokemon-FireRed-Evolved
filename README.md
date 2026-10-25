@@ -25,6 +25,7 @@ You need your own **clean US/English FireRed v1.0 or v1.1 ROM**.
 - **Followers:** partners jump ledges, stay during menus and dialogue, and hide during NPC crossings.
 - **Berry gardening:** 22 beds across Kanto and the islands, plus 53 hidden spots; plant, water with the Goldeen Canteen and harvest. Watered stage-1 mounds darken throughout with a visible soil rim; later stages keep small root patches.
 - **Viridian Mart:** the woman sells only Master Balls, Rare Candies, Max Elixirs, Full Restores, Max Revives and Max Repels for $1 each. The regular clerk keeps his original four items.
+- **Field fixes:** berry plants stay stable after battles, grass keeps its normal appearance, picking jingles finish completely, and watering uses lower blue ripples.
 - **Berry Forest berries:** ground berries respawn in half the usual steps.
 - **Mirage Island:** unlocked after Normal Champion, with Mom's hint and ferry access.
 - **Johto starters:** Safari Zone grass at Lv5: Chikorita Center, Cyndaquil East, Totodile West.

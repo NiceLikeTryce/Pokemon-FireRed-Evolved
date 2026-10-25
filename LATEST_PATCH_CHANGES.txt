@@ -1,1 +1,5 @@
-- Darken the entire watered stage1 mound.
+- Stop berry plants flashing after battles.
+- Prevent dark squares in grass throughout the game.
+- Let berry-picking jingles finish before dialogue advances.
+- Lower pouring ripples by 2 pixels.
+- Restore blue watering ripples.
