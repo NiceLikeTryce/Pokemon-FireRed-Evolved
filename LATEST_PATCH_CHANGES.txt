@@ -1,3 +1,1 @@
-- Viridian Mart woman sells only six requested items for $1 each.
-- Keep the regular clerk's original four items.
-- Deliver the clean rebuilt ROM.
+- Darken the entire watered stage1 mound.

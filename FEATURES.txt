@@ -401,5 +401,5 @@
 - Route 25 has three berry plants east of Bills cottage; the Ether remains collectible nearby.
 - Two Island has two berry plants beside the sign near its dock.
 - Three Island has two berry plants behind its Mart.
-- Watered plants in visible berry beds show a small dark soil patch at their stem bases until the next growth stage.
+- Watered stage1 mounds darken throughout and show a visible dark soil rim; later stages retain a small root patch until the next growth stage.
 - Viridian Mart's regular clerk stocks Poke Balls, Potions, Antidotes and Paralyze Heals.
