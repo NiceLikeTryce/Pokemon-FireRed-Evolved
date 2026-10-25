@@ -407,3 +407,4 @@
 - Grass no longer turns into dark squares after encounters.
 - Berry-picking jingles finish before dialogue advances; watering uses lower blue ripples.
 - Berry plants retain their colors after saving, reloading and Quest Log playback.
+- Watering from the south draws ripples behind the player and over the plant.

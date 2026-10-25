@@ -1,1 +1,1 @@
-- Restore berry-plant colors after loading a saved game.
+- Draw south-side watering behind the player and above the mound.
