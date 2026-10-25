@@ -77,7 +77,7 @@
 - Selected NPC dialogue changes with the time of day.
 - Outdoor weather includes restored effects and Ember Spa fog.
 - Berry Forest ground berries respawn in 750 steps, half the original time.
-- Berry gardens in Pallet Town, Pewter City, Four Island, Cerulean City and Route 10 support planting, watering and harvest.
+- Berry gardens in Pallet Town, Pewter City, Four Island, Cerulean City, Route 10, the Safari entrance, Fuchsia City, Route 2, Route 4, Route 5, Route 6, Route 7, Route 14 and Route 15 support planting, watering and harvest.
 - Mirage Island unlocks after Normal Champion with Mom hints and a Vermilion ferry option.
 - Mirage Island keeps Gen2 baby encounters and rare berries.
 - Kanto and Frontier windows light correctly at night.
@@ -103,7 +103,7 @@
 - Route5 Day Care gives a Togepi Egg on first successful interaction.
 - The final Viridian Forest Bug Catcher rewards TREE SHAKER.
 - Gym bonuses accompany badges and TM rewards.
-- Viridian City Mart sells Rare Candy and Master Ball for Â¥0.
+- Viridian Mart's woman sells only Master Balls, Rare Candies, Max Elixirs, Full Restores, Max Revives and Max Repels for $1 each.
 - Gym TMs use the highest base power of their type; Brock keeps Secret Power.
 - Misty gives Water Pulse; Surge gives Thunder; Erika gives SolarBeam.
 - Koga gives Sludge Bomb; Sabrina gives Psychic; Blaine gives Overheat; Giovanni gives Earthquake.
@@ -206,7 +206,7 @@
 ## Secret Bases
 - Route maps have at most one indent; removed extras restore original terrain.
 - Route24 terrain and borders match vanilla; its berry planting spot stays invisible.
-- Keep 28 entrances across Kanto, islands and towns; limit numbered Routes to one each.
+- Keep 27 entrances across Kanto, islands and towns; limit numbered Routes to one each.
 - Outdoor roofs and ledges stay intact around Secret Base entrances.
 - Cave and shrub entrances use straight cliff faces; older saves clear their moved markers.
 - SECRET POWER opens marked caves, trees and shrubs.
@@ -254,8 +254,8 @@
 - Pallet Town's original ground tiles are restored; its north exit works normally.
 - Fly uses the correct player artwork before takeoff and after landing; its bird animation finishes normally.
 - Older saves receive corrected Celadon entrances and Route 2, 11, 16, 24 and 25 tiles.
-- Gardening uses 56 hidden ground-berry spots.
-- Thirteen added spots have native dark marks; Route24 keeps its invisible berry spot.
+- Gardening uses 53 hidden ground-berry spots.
+- Hidden berry spots retain their original terrain, with no custom ground marks or wet-soil cues.
 - Collect the original berry, then check the same spot to plant, water and harvest.
 - JAIME gives the Goldeen Canteen with the Town Map, or on your next visit.
 - Delayed Town Map and Canteen gifts remain available after Champion.
@@ -367,7 +367,12 @@
 - Contest Lady replies match the chosen block and handle five-gift stories.
 - Canceling a level-up evolution preserves its required held item.
 - NPCs restore correctly when switching between main and berry previews.
-- Six berry beds in Pallet, Pewter, Four Island, Cerulean and Route 10 have independent planting, watering and saved growth.
+- Twenty-two berry beds in Pallet, Pewter, Four Island, Cerulean, Route 10, the Safari entrance, Fuchsia City, Route 2, Route 4, Route 5, Route 6, Route 7, Route 14, Route 15, Route 16, Route 22, Route 24, Route 25, Two Island and Three Island have independent planting, watering and saved growth. Route 4 uses three plants and full rounded soil edges.
+- Four Island has four planting spots; older crops keep their saved growth.
+- Each berry bed has its own starting assortment; initialized crops never reroll.
+- Safari entrance gardens remain visible beside tall-grass field effects.
+- Safari garden borders retain complete trees and normal player/plant depth.
+- New Four Island crops start as Chesto, Watmel, Liechi and Starf.
 - Pewter garden no longer has a wandering NPC.
 - Cable trade evolutions wait safely for their sound effect to finish.
 - Cable trades checked with English FireRed, LeafGreen, Ruby, Sapphire and Emerald.
@@ -385,3 +390,16 @@
 - Chikorita lives in Safari Center, Cyndaquil in East, and Totodile in West, all at Lv5.
 - Route2 Diglett's Cave facade uses vanilla tiles, including older saved views.
 - Followers show a question mark after five idle seconds waiting at a ledge, once per wait.
+
+- Route 14 keeps native scenery outside its two-plant garden north of Bird Keeper Donald.
+
+- Route 15 has a three-plant garden immediately right of its sign.
+- Route 16 has a two-plant garden left of its northern gatehouse.
+- Route 6 has four plants below and left of its central pond.
+- Route 22 has a four-plant garden directly below its pond, including Nanab; the hidden berry is removed.
+- Route 24 has four berry plants on its upper-right plateau, including Pecha.
+- Route 25 has three berry plants east of Bills cottage; the Ether remains collectible nearby.
+- Two Island has two berry plants beside the sign near its dock.
+- Three Island has two berry plants behind its Mart.
+- Watered plants in visible berry beds show a small dark soil patch at their stem bases until the next growth stage.
+- Viridian Mart's regular clerk stocks Poke Balls, Potions, Antidotes and Paralyze Heals.

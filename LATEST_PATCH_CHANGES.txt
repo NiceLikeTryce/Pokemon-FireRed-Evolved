@@ -1,2 +1,3 @@
-- Add berry beds in Four Island, Cerulean City and Route10.
-- Remove the nearby hidden Nanab berry spot.
+- Viridian Mart woman sells only six requested items for $1 each.
+- Keep the regular clerk's original four items.
+- Deliver the clean rebuilt ROM.

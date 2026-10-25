@@ -19,11 +19,12 @@ You need your own **clean US/English FireRed v1.0 or v1.1 ROM**.
 - **All 251 Pokémon:** including Gen2 & LeafGreen exclusives.
 - **Walking partners:** all 251 Pokemon follow you, with shiny colors and contextual reactions.
 - **Battle Frontier:** Link battles, recordings and original Emerald music.
-- **Secret Bases:** 28 entrances across Kanto, islands and towns; one per numbered Route; decorate, shop, visit and battle.
+- **Secret Bases:** 27 entrances across Kanto, islands and towns; one per numbered Route; decorate, shop, visit and battle.
 - **Celadon Contests:** five categories, four ranks, ribbons and paintings.
 - **Pokéblocks:** blend berries with NPCs or link partners, then feed Pokemon.
 - **Followers:** partners jump ledges, stay during menus and dialogue, and hide during NPC crossings.
-- **Berry gardening:** six beds in Pallet, Pewter, Four Island, Cerulean and Route 10, plus 56 hidden spots; plant, water with the Goldeen Canteen and harvest.
+- **Berry gardening:** 22 beds across Kanto and the islands, plus 53 hidden spots; plant, water with the Goldeen Canteen and harvest. Watered plants show a dark soil patch around their stems.
+- **Viridian Mart:** the woman sells only Master Balls, Rare Candies, Max Elixirs, Full Restores, Max Revives and Max Repels for $1 each. The regular clerk keeps his original four items.
 - **Berry Forest berries:** ground berries respawn in half the usual steps.
 - **Mirage Island:** unlocked after Normal Champion, with Mom's hint and ferry access.
 - **Johto starters:** Safari Zone grass at Lv5: Chikorita Center, Cyndaquil East, Totodile West.
