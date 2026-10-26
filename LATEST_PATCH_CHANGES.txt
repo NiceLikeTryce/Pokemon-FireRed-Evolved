@@ -1,1 +1,4 @@
-- Draw south-side watering behind the player and above the mound.
+- Fix Cerulean garden borders when arriving from Nugget Bridge.
+- Fix Pokemon colors in overworld HM banners.
+- Restore distinct dark Secret Base doorway openings.
+- Speed up outdoor area crossings.
