@@ -1,4 +1,1 @@
-- Fix Cerulean garden borders when arriving from Nugget Bridge.
-- Fix Pokemon colors in overworld HM banners.
-- Restore distinct dark Secret Base doorway openings.
-- Speed up outdoor area crossings.
+- Fix black Pallet scenery after Fly and fresh map loads.
