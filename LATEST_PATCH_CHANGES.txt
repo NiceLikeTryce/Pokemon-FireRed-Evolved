@@ -1,1 +1,2 @@
-- Fix black Pallet scenery after Fly and fresh map loads.
+- Keep the Save popup bright at night.
+- Fade Oak out after dialogue and revise his lab-Pokemon line.
