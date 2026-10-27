@@ -19,23 +19,21 @@ You need your own **clean US/English FireRed v1.0 or v1.1 ROM**.
 - **All 251 Pokémon:** including Gen2 & LeafGreen exclusives.
 - **Walking partners:** all 251 Pokemon follow you, with shiny colors and contextual reactions.
 - **Battle Frontier:** Link battles, recordings and original Emerald music.
-- **Secret Bases:** 27 entrances across Kanto, islands and towns; one per numbered Route; decorate, shop, visit and battle.
+- **Secret Bases:** 27 entrances across Kanto, islands and towns; decorate, shop, visit and battle.
 - **Celadon Contests:** five categories, four ranks, ribbons and paintings.
 - **Pokéblocks:** blend berries with NPCs or link partners, then feed Pokemon.
 - **Followers:** partners jump ledges, stay during menus and dialogue, and hide during NPC crossings.
-- **Berry gardening:** 22 beds across Kanto and the islands, plus 53 hidden spots; plant, water with the Goldeen Canteen and harvest. Watered stage-1 mounds darken throughout with a visible soil rim; later stages keep small root patches.
-- **Viridian Mart:** the woman sells only Master Balls, Rare Candies, Max Elixirs, Full Restores, Max Revives and Max Repels for $1 each. The regular clerk keeps his original four items.
-- **Field fixes:** berry plants stay stable after battles, grass keeps its normal appearance, picking jingles finish completely, and watering uses lower blue ripples.
+- **Berry gardening:** 22 beds across Kanto and the islands; plant, water with the GOLDEEN CANTEEN and harvest. Visible water markings shows you what has/hasn't been watered. 
 - **Berry Forest berries:** ground berries respawn in half the usual steps.
 - **Mirage Island:** unlocked after Normal Champion, with Mom's hint and ferry access.
-- **Johto starters:** Safari Zone grass at Lv5: Chikorita Center, Cyndaquil East, Totodile West.
+- **Johto starters:** All available in the Safari Zone.
 - **Sevii encounters:** vanilla FireRed tables; Altering Cave keeps its activated Gen2 roster.
 - **Bookcase hints:** reveal Gen2 PKMN locations by searching bookcases.
 - **Pokédex Habitat Guide:** view acquisition locations, odds, levels and unlock conditions in-game.
 - **A changing world:** real-time day/night & weather.
 - **TREE SHAKER:** mimics Gen2 Headbutt Tree mechanic.
 - **Early gifts:** bedroom Lucky Egg, Tree Shaker, Bill's Eevee, gym bonus rewards and Lt. Surge's FLASH.
-- **Gym Rewards:** bonus items and the strongest same-type TMs; Brock keeps Secret Power.
+- **Gym Rewards:** bonus items and the strongest same-type TMs; Brock gives Secret Power.
 - **Easier Evolutions:** Bill's trade-backs, Eevee Sun/Moon Stones and missed-move learning.
 - **Better training:** IV/EV viewer, longer Repels, reuse Repels, faster eggs with Magma Armor/Flame Body.
 - **Legendaries:** roaming beast visible in grass; legendaries return until caught; roaming bugs fixed.
