@@ -33,7 +33,8 @@ You need your own **clean US/English FireRed v1.0 or v1.1 ROM**.
 - **Berry Forest Berries:** ground berries respawn in half the usual steps.
 - **Mirage Island:** unlocked after Normal Champion, with Mom's hint and ferry access.
 - **Johto Starters:** All available in the Safari Zone.
-- **Sevii Encounters:** vanilla FireRed tables; Altering Cave keeps its activated Gen2 roster.
+- **Sevii Encounters:** vanilla FireRed species and levels; Altering Cave keeps its activated Gen2 roster.
+- **Wild Odds:** equal chances between eligible species; nighttime Ghost rates stay intact.
 - **Bookcase Hints:** reveal Gen2 PKMN locations by searching bookcases.
 - **Pokédex Habitat Guide:** view acquisition locations, odds, levels and unlock conditions in-game.
 - **Early Gifts:** bedroom Lucky Egg, Tree Shaker, Bill's Eevee, gym bonus rewards and Lt. Surge's FLASH.
