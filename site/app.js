@@ -43,7 +43,7 @@
       const response = await fetch('release.json', {cache: 'no-store'});
       if (!response.ok) throw new Error('The current patch is unavailable. Please use the BPS downloads.');
       const current = await response.json();
-      if (!/^v0\.\d{2,}$/.test(current.version) || !Array.isArray(current.sources) || current.sources.length !== 2
+      if (!/^v0\.(?:\d{2,}|(?:0|[1-9]\d*)\.(?:0|[1-9]\d*))$/.test(current.version) || !Array.isArray(current.sources) || current.sources.length !== 2
           || new Set(current.sources.map(s => s.revision)).size !== 2
           || !current.sources.every(s => ['v1.0', 'v1.1'].includes(s.revision) && /^[a-f0-9]{40}$/.test(s.base_sha1)
             && /^[a-f0-9]{64}$/.test(s.patch_sha256) && /^[A-Za-z0-9_.-]+\.bps$/.test(s.patch))) throw new Error('Invalid patch information.');

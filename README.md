@@ -1,5 +1,7 @@
 # Pokémon FireRed Evolved [BETA]
 
+Current version: **v0.2.31**. Future releases use three-part version numbers.
+
 ## HOW TO PLAY
 
 You need your own **clean US/English FireRed v1.0 or v1.1 ROM**.

@@ -1,1 +1,1 @@
-- Equalize wild species odds; preserve nighttime Ghost rates.
+- Use three-part versions: v0.231 is now v0.2.31.

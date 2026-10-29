@@ -413,3 +413,4 @@
 - Pallet Town retains its houses, fences and trees after Fly and fresh map loads.
 - Save windows stay bright at night while outdoor scenery keeps its night tint.
 - Oak leaves Cerulean Cave with a fade after finishing his victory dialogue.
+- Game downloads use three-part version numbers.
