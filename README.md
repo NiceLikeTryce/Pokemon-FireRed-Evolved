@@ -16,6 +16,7 @@ You need your own **clean US/English FireRed v1.0 or v1.1 ROM**.
 
 
 **Major Changes**
+- **Walking partners:** all 251 Pokemon follow you, with shiny colors and contextual reactions.
 - **All 251 Pokémon:** including Gen2 & LeafGreen exclusives.
 - **Walking Partners:** all 251 Pokemon follow you, with shiny colors and contextual reactions.
 - **Battle Frontier:** Link battles, recordings and original Emerald music.

@@ -1,2 +1,1 @@
-- Keep the Save popup bright at night.
-- Fade Oak out after dialogue and revise his lab-Pokemon line.
+- Equalize wild species odds; preserve nighttime Ghost rates.

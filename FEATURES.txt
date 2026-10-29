@@ -20,10 +20,8 @@
 - Incense breeding produces Marill or Wobbuffet; no Gen3 hatchlings.
 - Altering Cave supports Nintendo's eight Gen2 species.
 - Original FireRed Sevii Gen2 encounters are restored.
-- All Sevii wild tables use vanilla FireRed species, levels and odds; activated Altering Cave is unchanged.
-- Mixed wild pools preserve a 50/50 generation split.
-- Generation pools with 5+ species halve rates of 24% or higher.
-- Rare rates have a 5% floor within each generation.
+- Sevii wild tables retain vanilla FireRed species and levels; species odds are equal except nighttime Ghosts.
+- Wild species have equal odds across generations; nighttime Ghost odds are preserved.
 - Pokedex entries, sorting, searches and counts stop at #251.
 - Gen2 entries, capture pages and Summary/Hall of Fame numbers appear early.
 - Pokedex completion checks count only caught #1-#251.
